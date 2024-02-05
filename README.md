@@ -1,8 +1,13 @@
 ---
-UC-Davis-Data-Manipulation-in-JS: #4 - University of California @Davis - Manipulation in JavaScript
+title: "#4 - University of California @Davis Data Manipulation in JavaScript"
+author: "bbauska"
+date last editted: "2/5/2024 8+am"
+output: 
+  markdown:
+    with some style
 ---
 
-<h2 align="center">Manipulation in JavaScript</h2>
+<h2 align="center">Data Manipulation in JavaScript</h2>
 <h6>Taught by William Mead, Lecturer</h6>
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
