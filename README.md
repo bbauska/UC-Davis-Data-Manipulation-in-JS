@@ -1,5 +1,5 @@
 ---
-UC-Davis-Data-Manipulation-in-JS: University of California @Davis - Manipulation in JavaScript
+UC-Davis-Data-Manipulation-in-JS: #4 - University of California @Davis - Manipulation in JavaScript
 ---
 
 <h2 align="center">Manipulation in JavaScript</h2>
