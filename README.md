@@ -1,11 +1,32 @@
 ---
-title: "#4 - University of California @Davis Data Manipulation in JavaScript"
+title: |
+  #4 University of California @Davis Data Manipulation in JavaScript
+  by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/9/2024 1+am"
+date last editted: "4/08/2024 1+pm"
 output: 
   markdown:
     with some style
 ---
+
+<h1 align="center">Data Manipulation in JavaScript</h1>
+
+<h6 align="center">(by William Mead, Lecturer - University of California @Davis)</h6>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / uc davis logo (01) ~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image001.jpeg"
+  style="width:20%"
+  title="JavaScript coffee cup logo version"
+  alt="JavaScript coffee cup logo version." />
+<img src="./images/image002.png"
+  style="width:20%"
+  title="UC Davis logo"
+  alt="UC Davis logo." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ about data manipulation in javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <h2 align="center">Data Manipulation in JavaScript</h2>
 <h6>Taught by William Mead, Lecturer</h6>
