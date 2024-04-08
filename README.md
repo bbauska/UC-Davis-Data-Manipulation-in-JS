@@ -2326,6 +2326,13 @@ instance of the array object, which is really an instance of the object
 object. Hopefully, that makes sense.
 
 <h2 id="ch2-04">2.04 Another Inheritance Example (8:42)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image28.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2433,6 +2440,13 @@ understand the way that JavaScript is accessing the different
 properties.
 
 <h2 id="ch2-05">2.05 hasOwnProperty() (3:17)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image29.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2477,6 +2491,13 @@ combination. We\'re going to see that in some projects coming up.
 </ul>
 
 <h2 id="ch2-06">2.06 Introduction to Arrow Functions (6:42)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image30.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2559,6 +2580,13 @@ shortening down this function expression into just one line, which is
 pretty amazing.
 
 <h2 id="ch2-07">2.07 Parameters and Arrow Functions (7:11)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image31.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2636,6 +2664,13 @@ the curly braces. Check and make sure that works, that I did that right.
 And sure enough it works fine.
 
 <h2 id="ch2-08">2.08 Constructor Function Expression (5:03)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image32.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2699,6 +2734,13 @@ people\'s code.
 </ul>
 
 <h2 id="ch2-09">2.09 Seat Reservation Program Introduction (6:05)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image33.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2828,6 +2870,13 @@ that\'s really powerful and very exciting. So let\'s buckle in and get
 started on it.
 
 <h2 id="ch3-01">3.01 Introduction to Creating the Seats (4:52)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image35.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2891,6 +2940,13 @@ put them in right to start if you wanted to.
 </ul>
 
 <h2 id="ch3-02">3.02 The Left Section (6:08)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image36.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -2962,10 +3018,15 @@ specific business reason, that\'s the way they number their seats. So we
 need to mimic that. So that will be the next problem to solve. How could
 we fix that.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 The Right Section (5:56)</h2>
-
-![](./3-9-images/media/image37.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the last lesson we identified this problem of the numbering of the
 seats as we go through here and that\'s great. So now we can try to fix
@@ -3026,10 +3087,15 @@ here I\'ve got 13, 14, 15, 16, 17, and 18. And then over here I\'ve got
 last square, which is square number 300. And in the next video, we\'ll
 take care of the center part of the stage.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04">3.04 The Middle Section (4:17)</h2>
-
-![](./3-9-images/media/image38.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the previous lesson, we figured out how to get the right side to
 display properly. We have that working here, so that\'s great. Now we
@@ -3072,11 +3138,15 @@ just remove java scriptures, removing that stuff, anyway. Next we\'re
 going to figure out some variables and we\'ll do this in the next video.
 We\'ll figure out some variables that we can use to help generalize our
 script a little bit more.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 Figuring Out Variables (4:38)</h2>
-
-![](./3-9-images/media/image39.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Finding out the variables what we want to do next is take a look at the
 code we have and see where we\'ve hard coded some things in and see if
@@ -3125,10 +3195,15 @@ statement just because it\'s a little bit shorter than shorter syntax
 than if else statements but you could use if else statements, but we\'ll
 see what we need to do that.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 Adding Switch Statements (8:12)</h2>
-
-![](./3-9-images/media/image40.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We\'ll use switch statements to determine what we need to do for each
 section depending on which section we\'re currently filling out. If
@@ -3201,10 +3276,15 @@ label there. The left is going to get the counter setting there. That
 sets our switch statements out. Then in next we just need to do the
 loop, and we will have this function pretty much done.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 Adding the Loop and HTML (8:57)</h2>
-
-![](./3-9-images/media/image41.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We\'ve added the two switch statements to our function so that it will
 handle the correct HTML on either side or in the placement the correct
@@ -3276,10 +3356,15 @@ equals counter plus, and then the same thing down here. Okay. Let\'s go
 back and try it one more time. Now I\'m getting the right numbers all
 the way down to 300, and that\'s working perfectly.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-08">3.08 Using an Arrow Function (5:31)</h2>
-
-![](./3-9-images/media/image42.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the last lesson we got our function working and we got a generally so
 that we can use one function to create all of the different sections for
@@ -3349,10 +3434,15 @@ that those seats have been previously reserved.
   <li><a href="">3.08 Seat-Reservation-Part-1.pdf</a></li>
 </ul>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-09">3.09 The reservedSeats Object (5:29)</h2>
-
-![](./3-9-images/media/image43.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Seat Reservation Program. Part two marking the reserve seats. For this
 particular part of the project we\'re going to take the data that we had
@@ -3406,10 +3496,15 @@ and you should be able to do that. So if you can actually write the
 script yourself without going on to the next video and see if you can.
 So if you can get those two pieces of information in there.
 
-# 3.10 Affecting the DOM (4:56) {#affecting-the-dom-456 .unnumbered}
-
-![](./3-9-images/media/image44.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-10">3.10 Affecting the DOM (4:56)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Hopefully you were able to solve that little challenge and come up with
 something like this, document getElementByID, object.seat, set its class
@@ -3452,10 +3547,15 @@ thing in a closure, and the IIFE, the immediately-invoked function
 expression closure. We\'ll do that in the next video and wrap up this
 part and get ready for the challenge for the next part.
 
-# 3.11 With IIFE Closure (3:54) {#with-iife-closure-354 .unnumbered}
-
-![](./3-9-images/media/image45.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-11">3.11 With IIFE Closure (3:54)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Next, we\'ll add the IIFE, the Immediately Invoked Function Expression,
 and put it around our for loop just because we don\'t want this for loop
@@ -3500,10 +3600,15 @@ for solving this problem in the next part of this project.
 
 ## 3.11.Seat-Reservation-Part-2.pdf
 
-# 3.12 Adding an Array (3:26) {#adding-an-array-326 .unnumbered}
-
-![](./3-9-images/media/image46.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-12">3.12 Adding an Array (3:26)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Seat Reservation Program, Part 3 Selecting seats. The challenge was to
 make an array and then make it so that when users click the seats, they
@@ -3541,10 +3646,15 @@ event listener to each seat. And then we add a function that\'s going to
 run that\'s going to take that seat and added and remove it to the array
 when you click it. So we\'ll do this part in the next lesson.
 
-# 3.13 Two Pieces Needed (4:51) {#two-pieces-needed-451 .unnumbered}
-
-![](./3-9-images/media/image47.png){width="5.0in"
-height="2.8173075240594927in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-13">3.13 Two Pieces Needed (4:51)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Now we need these two pieces. We need to have an EventListener. We need
 to loop through all our seats and add an EventListener, so that when one
@@ -3591,10 +3701,15 @@ an EventListener to all of them that\'s looking for click. When that
 click happens, we\'re going to run this seat selection process down
 here.
 
-# 3.14 Getting the Seat ID (4:30) {#getting-the-seat-id-430 .unnumbered}
-
-![](./3-9-images/media/image48.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-14">3.14 Getting the Seat ID (4:30)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 The next challenge is to see, okay, when the user clicks on a seat and
 you can only click on one seat at a time, how can you get the ID for
@@ -3642,6 +3757,13 @@ not they\'re already in the array. Take a look at that and see what you
 can figure out, and then we\'ll look at it in the next lesson together.
 
 # 3.15 Getting the Index (3:45) {#getting-the-index-345 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image49.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -3685,6 +3807,13 @@ in there, and see what that looks like. And we\'ll look at the answer to
 that in the next lesson.
 
 # 3.16 Adding the If Statement (3:22) {#adding-the-if-statement-322 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image50.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -3722,6 +3851,13 @@ that element out of the array. Let\'s see if you can do that on your
 own. And then in the next lesson we\'ll look at my solution for that.
 
 # 3.17 The Finished Function (6:08) {#the-finished-function-608 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image51.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -3790,6 +3926,13 @@ seats that had been previously reserved. Okay, great.
 ## 3.17.Seat-Reservation-Part-3.pdf
 
 # 3.18 Adding the Form HTML (4:08) {#adding-the-form-html-408 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./3-9-images/media/image52.png){width="4.0in"
 height="2.2538462379702535in"}
@@ -3846,10 +3989,14 @@ next lesson to see if you came up with the same thing I came up with.
 
 ## 3.18.Index.html
 
-# 3.19 Open and Close Form Event Handlers (6:47) {#open-and-close-form-event-handlers-647 .unnumbered}
-
-![](./3-9-images/media/image53.png){width="4.0in"
-height="2.2538462379702535in"}
+<h2 id="ch3-19">3.19 Open and Close Form Event Handlers (6:47)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Were you able to do that challenge? The challenge was to write two event
 listeners and let\'s see if you were able to do that. This is what I
@@ -3925,10 +4072,15 @@ we\'ll set that back to displaying on and we\'ll set a display block if
 there is something in there. Okay, great. So see if you can do that on
 your own.
 
-# 3.20 manageConfirmForm Function (5:45) {#manageconfirmform-function-545 .unnumbered}
-
-![](./3-9-images/media/image54.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>3.20 manageConfirmForm Function (5:45)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Were you able to do this? We\'re able to solve this little micro
 challenge? Let\'s see what I came up with here. This is what I came up
@@ -3985,10 +4137,15 @@ need to do to alter this part of the page so that it has that
 information in there instead, and then we\'ll look at my solution in the
 next lesson.
 
-# 3.21 Updating the Else Statement (5:30) {#updating-the-else-statement-530 .unnumbered}
-
-![](./3-9-images/media/image55.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-21">3.21 Updating the Else Statement (5:30)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Were you able to figure out this challenge? It shouldn\'t be too
 difficult. If we look in here in the HTML, what we really want to change
@@ -4039,10 +4196,15 @@ users could do, and changing the contents of your interface that it
 makes sense for what it is that users need to do in that context. We\'ll
 be doing a lot more of that in this part.
 
-# 3.22 Fixing the Bugs on the Form (5:50) {#fixing-the-bugs-on-the-form-550 .unnumbered}
-
-![](./3-9-images/media/image56.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-22">3.22 Fixing the Bugs on the Form (5:50)<M/h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 The next thing that we need to do is fix some bugs that we have here.
 Let\'s see if we can identify one over here. I refresh my page. What if
@@ -4101,10 +4263,15 @@ at the bottom, will put a space, and an end in place of the last comma
 to get us something that looks a little bit better. See if you can do
 that, and then we\'ll look at the solution in the next lesson.
 
-# 3.23 Fixing More Bugs (3:01) {#fixing-more-bugs-301 .unnumbered}
-
-![](./3-9-images/media/image57.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-23'>3.23 Fixing More Bugs (3:01)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Were you able to complete this micro challenge? If you were you should
 be able to use these. Use the replace method here and to find out about
@@ -4143,10 +4310,15 @@ moment is to fix seats so that it\'s only if there\'s only one seat in
 the array we have it will just say seat instead of seats. So see if you
 can solve that one
 
-# 3.24 Additional Condition Statement (5:04) {#additional-condition-statement-504 .unnumbered}
-
-![](./3-9-images/media/image58.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-24">3.24 Additional Condition Statement (5:04)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 One more thing, were you able to solve this little problem here?
 Hopefully you came up with an idea that looks kind of like this using an
@@ -4196,10 +4368,15 @@ get better and better over time.
 
 ## 3.24.Seat-Reservation-Part-4.pdf
 
-# 3.25 Setting Up the Final Steps (6:01) {#setting-up-the-final-steps-601 .unnumbered}
-
-![](./3-9-images/media/image59.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-25">3.25 Setting Up the Final Steps (6:01)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Seat Reservation Program Part 5: Reserving the Seats. These are really
 the final steps that we need to do. We\'ve done a lot with this project
@@ -4259,10 +4436,15 @@ in the next lesson.
 
 ## 3.25.Styles.CSS
 
-# 3.26 Back to the Object (4:21) {#back-to-the-object-421 .unnumbered}
-
-![](./3-9-images/media/image60.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-26">3.26 Back to the Object (4:21)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Okay. Again, the Object.keys reservedSeats.length will tell us how many
 records we have in here. Four currently. That\'s what it was built into
@@ -4302,10 +4484,15 @@ We\'ve done that before. That shouldn\'t be too difficult to
 micro-challenge. Now, down here we\'re going to add it to the object,
 and that\'s where the new bit comes in.
 
-# 3.27 Adding Each Record (6:25) {#adding-each-record-625 .unnumbered}
-
-![](./3-9-images/media/image61.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-27">3.27 Adding Each Record (6:25)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 So now we need to add to our object up there at the top of the page. And
 if you remember, if we go back and look at our object really quickly up
@@ -4364,10 +4551,15 @@ Smith and CB24 for each of these new records. So it is actually working
 and it\'s adding those seats into that object up at the top of the page
 when I submit the form. So that\'s great.
 
-# 3.28 Clean Up (x:xx) {#clean-up-xxx .unnumbered}
-
-![](./3-9-images/media/image62.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-28">3.28 Clean Up (x:xx)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Next, we\'ll just do a little bit of clean-up that we need to do in
 order to get everything back to the same state it was before we reserve
@@ -4452,10 +4644,15 @@ to it. We were very finicky about the language along the way to make
 sure that it\'s clear to the user and that they can\'t make mistakes
 while they are reserving their seats. Great job.
 
-# 3.29 Final Fixes (x:xx) {#final-fixes-xxx .unnumbered}
-
-![](./3-9-images/media/image63.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-29">3.29 Final Fixes (x:xx)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Now that the project is finished and it\'s all working properly. There
 are just a few minor things that we could do to clean up the code and
@@ -4587,7 +4784,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/to72A/pdf
 -   Generalize the functions written in the first version of the
     application to handle multiple types of data.
 
-# 4.00 Introduction {#introduction .unnumbered}
+<h1 id="ch4">4.00 Introduction</h1>
 
 # ![](./3-9-images/media/image64.png){width="4.0in" height="2.2538462379702535in"} {#section .unnumbered}
 
@@ -4600,10 +4797,15 @@ external sources, and doing all kinds of really cool stuff. I think
 you\'re going to get a lot out of it. It\'s really fun and I look
 forward to doing this material with you. So let\'s get started.
 
-# 4.01 Introduction to Asynchronous JavaScript (6:48) {#introduction-to-asynchronous-javascript-648 .unnumbered}
-
-![](./3-9-images/media/image65.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-01">4.01 Introduction to Asynchronous JavaScript (6:48)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Asynchronous javascript. Let\'s look at a cooking analogy. Suppose
 you\'re cooking breakfast, you put the pan on the stove to heat up, and
@@ -4650,9 +4852,8 @@ follow exactly what was going on, where you were in relation with that
 refreshing of the page. Let\'s set up some examples, so we can see how
 this asynchronous javascript works. The hallmark of an asynchronous
 task, is that javascript doesn\'t know how long that task is going to
-take to complete while we, as users, are waiting for
-
-that task to complete. We should not be blocked from doing other things
+take to complete while we, as users, are waiting for that task to complete. 
+We should not be blocked from doing other things
 on the web page or the web application. I created a file that randomly
 takes between 5 and 30 seconds to process, and I put it on my server.
 It\'s a simple PHP file, and we can see over here this isn\'t a PHP
@@ -4688,10 +4889,15 @@ video.
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/8lSuh/start-files-asynchronou-js-examples
 
-# 4.02 Example: XMLHttpRequest -- getData(); (4:59) {#example-xmlhttprequest-getdata-459 .unnumbered}
-
-![](./3-9-images/media/image66.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-02">4.02 Example: XMLHttpRequest -- getData(); (4:59)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the last lesson, we looked at a file that takes between five and 30
 seconds to process and each time you refresh the page it could take a
@@ -4748,10 +4954,15 @@ gets the data, waits until the data is ready and then runs this function
 called useResponse. That will allow us to use that data. Let\'s take a
 look at that function next.
 
-# 4.03 Example: XMLHttpRequest -- useResponse(); (4:50) {#example-xmlhttprequest-useresponse-450 .unnumbered}
-
-![](./3-9-images/media/image67.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-03">4.03 Example: XMLHttpRequest -- useResponse(); (4:50)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the last video, we built the function that allows us to get the data.
 Now we need to be able to use the data that comes back. So we\'re going
@@ -4808,10 +5019,15 @@ font. We\'re not being prevented from doing these other actions on the
 page while this thing is going and getting this data. And that\'s a
 synchronous.
 
-# 4.04 jQuery to the Rescue (5:39) {#jquery-to-the-rescue-539 .unnumbered}
-
-![](./3-9-images/media/image68.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-04">4.04 jQuery to the Rescue (5:39)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 jQuery to the rescue. Working with the xml http request api directly was
 always cumbersome. Kind of like the name but it became popular in the
@@ -4877,10 +5093,15 @@ over from the server that ajax appended to the page there for however
 long it was going to take for it to complete. That\'s really pretty
 cool.
 
-# 4.05 The Fetch API and Promises -- getData() (5:51) {#the-fetch-api-and-promises-getdata-551 .unnumbered}
-
-![](./3-9-images/media/image69.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-05">4.05 The Fetch API and Promises -- getData() (5:51)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We have the old XHtmlHTTPrequest API and it still works and you can use
 it. It\'s a little bit cumbersome to use in plain vanilla JavaScript,
@@ -4944,10 +5165,15 @@ with curly braces like that. This function is going to get the text when
 the promise is resolved and then put it back into this innerHTML for
 remote data. We\'ll do that in the next video.
 
-# 4.06 The Fetch API and Promises -- response.text; (4:25) {#the-fetch-api-and-promises-response.text-425 .unnumbered}
-
-![](./3-9-images/media/image70.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-06">4.06 The Fetch API and Promises -- response.text; (4:25)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the last video, we started setting up our getData function to
 asynchronously get the data from our server. We have a spinner on the
@@ -4999,10 +5225,15 @@ chaining in here to kind of figure out how this is all going to work
 with two anonymous functions. And we\'re going to take a look at a way
 of making that a little bit simpler in the next example.
 
-# 4.07 Async and Await Keywords (5:13) {#async-and-await-keywords-513 .unnumbered}
-
-![](./3-9-images/media/image71.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-07">4.07 Async and Await Keywords (5:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Async and Await. The Asyn and Await key words were added to Javascript
 with the ES 2017 version as a way of making it easier to work with the
@@ -5068,10 +5299,15 @@ remote U R L. And we take that fetch promised text. We\'re waiting for
 it to come in when it comes in. We\'re putting in content. When we get
 that content, we\'re putting it on the page pretty straightforward.
 
-# 4.08 Working with JSON Data (5:52) {#working-with-json-data-552 .unnumbered}
-
-![](./3-9-images/media/image72.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-08">4.08 Working with JSON Data (5:52)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Working with JSON data. In the first four examples, the PHP file just
 outputs some texts that happens to be in the HTML format. You can grab
@@ -5138,10 +5374,15 @@ fetch and the method to process this data. But we\'ll pick that up in
 the next video. See you can continue on with creating, working out this
 function here.
 
-# 4.09 Example 5: OutputHTML Function (4:36) {#example-5-outputhtml-function-436 .unnumbered}
-
-![](./3-9-images/media/image73.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-09">4.09 Example 5: OutputHTML Function (4:36)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 In the previous video, we started building out our function that\'s
 going to get our JSON data and work with it. As before, as we did in
@@ -5191,10 +5432,15 @@ data, and most of the time, if you\'re working with an external service,
 they\'re going to be giving back data in some sort of standard format.
 JSON is the most popular format out there these days. Insert.
 
-# 4.10 Example 6: Async and Await with JSON (4:45) {#example-6-async-and-await-with-json-445 .unnumbered}
-
-![](./3-9-images/media/image74.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-10">4.10 Example 6: Async and Await with JSON (4:45)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 As you probably guessed, we can use async await with JSON as well. There
 wouldn\'t be much use without it because most our data is coming in a
@@ -5258,10 +5504,15 @@ next lesson.
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/VASJ3/pdf-of-presentation
 
-# 4.11 Introduction to JavaScript Event Loop (6:11) {#introduction-to-javascript-event-loop-611 .unnumbered}
-
-![](./3-9-images/media/image75.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-11">4.11 Introduction to JavaScript Event Loop (6:11)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 JavaScript Event Loop. The concurrency model and the event loop in
 JavaScript is different from what you would see another languages like C
@@ -5336,10 +5587,15 @@ example runs from the event loop stack perspective.
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/efp7d/start-files-javascript-event-loop
 
-# 4.12 Example 3 (5:44) {#example-3-544 .unnumbered}
-
-![](./3-9-images/media/image76.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-12">4.12 Example 3 (5:44)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Example 3. Let\'s consider this code and run it into the browser to see
 what we get in the console. It\'s very similar to Example 1, except
@@ -5402,10 +5658,15 @@ that\'s making use of a browser API that\'s going to take some time,
 then it can get shoveled off into the queue where it can wait until
 it\'s done, and then it\'ll enter back into the stack.
 
-# 4.13 Examples 4 & 5 (6:31) {#examples-4-5-631 .unnumbered}
-
-![](./3-9-images/media/image77.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-13">4.13 Examples 4 & 5 (6:31)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Now this is interesting let\'s take a look at example four and it\'s got
 this coat here and it\'s exactly the same as example 3, except instead
@@ -5486,10 +5747,15 @@ second one is going to go 5 seconds. So you can see that the second one
 finished first and then the first one finished last, So that\'s pretty
 interesting.
 
-# 4.14 Example 6: setTimeout (3:29) {#example-6-settimeout-329 .unnumbered}
-
-![](./3-9-images/media/image78.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id"ch4-14">4.14 Example 6: setTimeout (3:29)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Example, six, one last thing to talk about regarding asynchronous
 functions if you want to do something a synchronously on an interval,
@@ -5538,10 +5804,15 @@ hopefully these examples have really helped.
 
 > https://www.coursera.org/learn/javascript-data-manipulation/supplement/zEBoj/pdf-of-presentation
 
-# 4.15 Creating a Basic jQuery Version (4:44) {#creating-a-basic-jquery-version-444 .unnumbered}
-
-![](./3-9-images/media/image79.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-15">4.15 Creating a Basic jQuery Version (4:44)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 A synchronously sending data with JavaScript. For the end result of this
 project, you can end up with a really nice email contact form that you
@@ -5612,10 +5883,15 @@ in the next video.
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/gnlU1/start-files-contact-form-project
 
-# 4.16 Loading and Validating Form Data (5:34) {#loading-and-validating-form-data-534 .unnumbered}
-
-![](./3-9-images/media/image80.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-16">4.16 Loading and Validating Form Data (5:34)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We talked about our files and now we\'re ready to get started. We\'ve
 got our loading from Google or jQuery libraries loading up, as well as
@@ -5684,10 +5960,15 @@ Now that we\'re here, we need to validate our form and actually get the
 data from this thing once we\'re sure our form is validating fine.
 We\'ll do that in the next video.
 
-# 4.17 Sending the Data (8:37) {#sending-the-data-837 .unnumbered}
-
-![](./3-9-images/media/image81.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-17">4.17 Sending the Data (8:37)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Great. In our previous video, we started by validating our form and then
 capturing the submission of the form. Now we need to check, I\'m going
@@ -5782,10 +6063,15 @@ the form to put it back the way it was in case we wanted to send some
 more data. So that\'s all working really, really well, and it\'s
 interesting to see how you can do that thing.
 
-# 4.18 Async/Await Version (6:13) {#asyncawait-version-613 .unnumbered}
-
-![](./3-9-images/media/image82.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-18">4.18 Async/Await Version (6:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We finished the j query version. Now we\'re going to do the version
 using a sink and a weight and vanilla. Js, we\'re going to skip the
@@ -5866,10 +6152,15 @@ just getting that and then putting it on the page and that\'s all there
 is to it. We have one more thing that we need to do this and we\'ll do
 to this and we\'ll do that in the next video.
 
-# 4.19 Getting the Data (5:33) {#getting-the-data-533 .unnumbered}
-
-![](./3-9-images/media/image83.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-19">4.19 Getting the Data (5:33)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 The sunday to function is almost done. We have it where we\'re getting
 the data from the form. We\'re sending it to the form processor, sending
@@ -5943,10 +6234,15 @@ takes some time to actually reach the server and do this stuff. These
 things will wait until we get the data back, which is really pretty
 awesome.
 
-# 4.20 Creating a Contact Me Form (7:36) {#creating-a-contact-me-form-736 .unnumbered}
-
-![](./3-9-images/media/image84.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-20">4.20 Creating a Contact Me Form (7:36)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 For the final part of this lesson, we\'re going to create this contact
 form here. And I\'m looking at the finished version of what we\'re going
@@ -6049,10 +6345,15 @@ checking and the the message that we want to display if it fails. So
 we\'ll be working on filling out this display message function here and
 they send data function here.
 
-# 4.21 Working With Error Messages (7:12) {#working-with-error-messages-712 .unnumbered}
-
-![](./3-9-images/media/image85.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-21">4.21 Working With Error Messages (7:12)<?h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 \[MUSIC\] Now that we\'ve gone over our files, we can start working on
 our display message function here. Let\'s get started on that. The first
@@ -6151,10 +6452,15 @@ going to refresh it, if I don\'t fill in the name field, it says oops,
 stays on for two seconds, fades out and then puts the cursor into the
 field, so that\'s working perfectly.
 
-# 4.22 The sendData() Function (5:33) {#the-senddata-function-533 .unnumbered}
-
-![](./3-9-images/media/image86.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-22">4.22 The sendData() Function (5:33)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We are mostly done with our display message function. We\'re going to
 have to adjust it just a little bit in a few minutes to handle our
@@ -6230,10 +6536,15 @@ next thing we need to do is show the correct message or a success
 message and we\'ll have to modify our display message function a little
 bit for that. And we\'ll do that in the next video.
 
-# 4.23 Updated DisplayMessage() Function (7:05) {#updated-displaymessage-function-705 .unnumbered}
-
-![](./3-9-images/media/image87.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-23">4.23 Updated DisplayMessage() Function (7:05)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 We\'ve got our send data function almost finished here, we just need to
 finish it up a little bit. All we need here is to set the message right.
@@ -6321,8 +6632,15 @@ find them useful. I\'ve really enjoyed putting them together.
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/4kqEh/pdf-of-presentation
 
-# 4.24 Course Summary (1:18) {#course-summary-118 .unnumbered}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-24">4.24 Course Summary (1:18)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image0xx.png"
+  style="width:40%;"
+  alt="." />
+</p>
 Congratulations. You\'ve made it to the end of our fourth course, and to
 the end of our four-course specialization on JavaScript. That\'s a lot
 of JavaScript and you\'ve spent a lot of time on this, and you should be
@@ -6347,3 +6665,6 @@ continue to progress to become the developer that you want to be and to
 meet your goals.
 
 .the end. 1/10/24 3:42pm
+.the end. 4/10/24 Mon 2:32am
+
+
