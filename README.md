@@ -36,19 +36,10 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 01. introduction to data manipulation in javascript (01) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image001.png"
+<img src="./images/image003.png"
   style="width:18%;"
   alt="Introduction to Data Manipulation in JavaScript by William Mead, 
     (lecturer, UC Davis)." />
-</p>
-
-<h3 align="center"> </h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. uc davis logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image002.webp?raw=true"
-  style="width:25%;"
-  alt="UC Davis logo." />
 </p>
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
