@@ -46,7 +46,7 @@ output:
 
 <a href="https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs">Animation with CSS &amp; JS:</a>
 
-<a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs>Basic Modal Template:</a>
+<a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs">Basic Modal Template:</a>
 
 [Overview of Objects & Prototypes:](https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs)
 
