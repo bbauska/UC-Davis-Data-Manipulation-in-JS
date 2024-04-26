@@ -1,4 +1,7 @@
 ---
+title: "#3 - University of California @Davis Interactivity with JavaScript and jQuery"
+author: "bbauska"
+---
 title: "#4 University of California @Davis Data Manipulation in JavaScript by William Mead, Lecturer"
 author: "bbauska"
 date first editted: "1/10/2024 Mon 3+pm"
