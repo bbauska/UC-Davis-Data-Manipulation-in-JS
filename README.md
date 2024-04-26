@@ -10,9 +10,7 @@ output:
   markdown:
     with some style
 ---
-
 <h1 align="center">Data Manipulation in JavaScript</h1>
-
 <h6 align="center">(by William Mead, Lecturer - University of California @Davis)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
