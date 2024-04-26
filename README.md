@@ -3,7 +3,10 @@ title: |
   #4 University of California @Davis Data Manipulation in JavaScript
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "4/08/2024 1+pm"
+date first editted: "1/10/2024 Mon 3+pm"
+date last editted: "4/08/2024 Sat 1+pm"
+date last editted "4/10/24 Mon 2+am"
+date last editted "4/26/24 Fri 12:56pm"
 output: 
   markdown:
     with some style
@@ -26,35 +29,30 @@ output:
   title="UC Davis logo"
   alt="UC Davis logo." />
 </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ about data manipulation in javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-<h2 align="center">Data Manipulation in JavaScript</h2>
-<h6>Taught by William Mead, Lecturer</h6>
-<br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ readme.md of uc-davis-data-manipulation-in-js ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 01. introduction to data manipulation in javascript (01) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.png"
-  style="width:18%;"
+  style="width:48%;"
+  title="Introduction to Data Manipulation in JavaScript by William Mead, 
+    (lecturer, UC Davis)"
   alt="Introduction to Data Manipulation in JavaScript by William Mead, 
     (lecturer, UC Davis)." />
 </p>
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
+<a href="https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs">Animation with CSS &amp; JS:</a>
 
-## Animation with CSS & JS: https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs
+<a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs>>Basic Modal Template:</a>
 
-## Basic Modal Template: <https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs> {#basic-modal-template-httpstraceyh.hashnode.devguide-basic-template-for-creating-a-modalsourcemore_articles_bottom_blogs .unnumbered}
+[Overview of Objects & Prototypes:](https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs)
 
-Overview of Objects & Prototypes:
-<https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs>
+[JS DOM Manipulation Cheat Sheet:](https://traceyh.hashnode.dev/javascript-dom-manipulation-cheat-sheet)
 
-JS DOM Manipulation Cheat Sheet:
-<https://traceyh.hashnode.dev/javascript-dom-manipulation-cheat-sheet>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ about data manipulation in javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>About this Course</h3>
 
 This course builds on the skills from the previous course and goes
@@ -6678,5 +6676,6 @@ meet your goals.
 
 .the end. 1/10/24 3:42pm
 .the end. 4/10/24 Mon 2:32am
+.the end. 4/26/24 Fri 12:56pm
 
 
