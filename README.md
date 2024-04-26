@@ -1,7 +1,8 @@
 ---
 title: "#4 University of California @Davis Data Manipulation in JavaScript"
 author: "bbauska"
-date last editted "4/26/24 Fri 12:56pm"
+date prior editted "4/26/24 Fri 12:56pm"
+date last editted: ""
 output: 
   markdown:
     with some style
