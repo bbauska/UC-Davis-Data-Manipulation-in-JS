@@ -8,13 +8,6 @@ output:
     with some style
 ---
 ---
-title: "#4 University of California @Davis Data Manipulation in JavaScript"
-author: "bbauska"
-date prior editted "4/26/24 Fri 12:56pm"
-date last editted: "4/28/24 Sat 2:12am"
-output: 
-  markdown:
-    with some style
 ---
 <h1 align="center">Data Manipulation in JavaScript</h1>
 <h6 align="center">(by William Mead, Lecturer - University of California @Davis)</h6>
