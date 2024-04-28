@@ -23,28 +23,19 @@ output:
   title="UC Davis logo"
   alt="UC Davis logo." />
 </p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ readme.md of uc-davis-data-manipulation-in-js ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 01. introduction to data manipulation in javascript (01) ~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image003.png"
-  style="width:48%;"
-  title="Introduction to Data Manipulation in JavaScript by William Mead, 
-    (lecturer, UC Davis)"
-  alt="Introduction to Data Manipulation in JavaScript by William Mead, 
-    (lecturer, UC Davis)." />
-</p>
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
-<a href="https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs">Animation with CSS &amp; JS:</a>
+<a href="https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs">
+  Animation with CSS &amp; JS</a>
 
-<a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs">Basic Modal Template:</a>
+<a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs">
+  Basic Modal Template</a>
 
-[Overview of Objects & Prototypes:](https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs)
+<a href="https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs">
+  Overview of Objects &amp; Prototypes:</a>
 
-[JS DOM Manipulation Cheat Sheet:](https://traceyh.hashnode.dev/javascript-dom-manipulation-cheat-sheet)
+<a href="https://traceyh.hashnode.dev/javascript-dom-manipulation-cheat-sheet">JS DOM Manipulation Cheat Sheet</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ about data manipulation in javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>About this Course</h3>
@@ -74,12 +65,12 @@ the purpose of each type. You will be able to explore some of the
 advanced features available in the jQuery validation plugin, and take
 full control of the way information is presented to users.
 
-<h4>18 videos, 7 readings</h4>
+<h6>18 videos, 7 readings</h6>
 
 -   **1.00 A Note From UC Davis**
 
--   [**1.00 Welcome to this
-    > Course!**](https://www.coursera.org/lecture/javascript-data-manipulation/welcome-to-this-course-K8n2i)
+-   <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/welcome-to-this-course-K8n2i">
+  1.00 Welcome to this Course!</a></b>
 
 -   **1.00 Module 1 Introduction**
 
@@ -146,10 +137,10 @@ You will be introduced to a larger scripting project with more
 functionality and complexity, which you will be able to start in the
 next module.
 
-<h4>9 videos, 5 readings</h4>
+<h6>9 videos, 5 readings</h6>
 
--   [**2.00 Module 2
-    > Introduction**](https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-ZlMzi)
+-   <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-ZlMzi">
+  2.00 Module 2 Introduction</a></b>
 
 1.  **Introduction to Prototypes & Inheritance**
 
@@ -191,7 +182,9 @@ code using best practices and fix final bugs in the application. You
 will be able to create a general function for getting data from the
 seatReservations object and use DOM manipulation techniques and logical
 flow control structures to update the necessary elements on the web
-page. You will be able to use JavaScript to create 300 unique objects
+page. 
+
+You will be able to use JavaScript to create 300 unique objects
 following a specific naming pattern and be able to demonstrate
 refactoring code and DRY principles in programming. You will be able to
 solve possible errors the user may encounter when reserving seats and be
@@ -199,10 +192,10 @@ able to display and hide the seat reservation form. You will be able to
 add data to an object based on user selection in the interface and
 practice DOM manipulation techniques.
 
-<h4>29 videos, 8 readings</h4>
+<h6>29 videos, 8 readings</h6>
 
--   [**3.00 Module 3
-    > Introduction**](https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-knrdu)
+-  <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-knrdu">
+  3.00 Module 3 Introduction</a></b>
 
 1.  **Introduction to Creating the Seats**
 
@@ -295,10 +288,10 @@ be able to explore ways the data coming from third party APIs can be
 manipulated. You will also have the chance to work on an Honors project
 (if you desire).
 
-<h4>42 videos, 12 readings</h4>
+<h6>42 videos, 12 readings</h6>
 
--   [**4.00 Module 4
-    > Introduction**](https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-WzeAM)
+-   <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-WzeAM">
+  4.00 Module 4 Introduction</a></b>
 
 1.  **Introduction to Asynchronous JavaScript**
 
@@ -475,25 +468,20 @@ We look forward to having you in this course. Happy learning!
 
 ### **Additional Links**:
 
--   Coursera's Learner Support/Help Center:
+-   <a href="https://learner.coursera.help/hc/en-us">
+  Coursera's Learner Support/Help Center:</a>
 
-<https://learner.coursera.help/hc/en-us>
+-   <a href="https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course">
+  Flagging a Lecture:</a>
 
--   Flagging a Lecture:
+-   <a href="https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines">
+  Assignment Deadlines:</a>
 
-<https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course>
+-   <a href="https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments">
+  Peer Reviewed Assignments:</a>
 
--   Assignment Deadlines:
-
-<https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines>
-
--   Peer Reviewed Assignments:
-
-<https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments>
-
--   Coursera's Honor Code:
-
-<https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code>
+-   <a href="https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code">
+  Coursera's Honor Code:</a>
 
 <h2 id="ch1">Week 1 -- Collecting & Validating Data from Users</h2>
 
@@ -536,21 +524,23 @@ forward to working through this material with you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01 Introduction to HTML Forms (7:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 03. basic html form elements (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 03. introduction to html forms (1.01) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.png"
   style="width:40%;"
-  alt="" />
+  title="1.01 Introduction to HTML Forms"
+  alt="1.01 Introduction to HTML Forms." />
 </p>
 
 Basic html form elements.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 04.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. no one likes forms (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image004.png"
   style="width:40%;"
-  alt="." />
+  title="No One Likes Forms"
+  alt="No One Likes Forms." />
 </p>
 
 No one likes forms, I\'m bored, so I think I\'ll go fill out some forms
@@ -568,18 +558,19 @@ how we can collect data from users and what we can do to make sure that
 we\'re getting the correct data from users. And looking at ways in which
 we can improve the user experience by designing forms properly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 05.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. example, starting a form (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image005.png"
   style="width:50%;"
-  alt="." />
+  title="Example, Starting a Form"
+  alt="Example, Starting a Form." />
 </p>
 
 Let\'s get started with that, to start a form we would start with a form
 element in HTML and usually there are two attributes that go with the
 form element. One is the **method** which would either be set to post or
 get generally. And that has to do with how the data is sent and we\'ll
-explore that more later exactly what that means. And then the action is
+explore that more later exactly what that means. And then the **action** is
 the file that the form data is going to be sent to. It could be a
 **php** file, like **processor.php** here. That file isn\'t going to
 exist in our project, but that would be where the browser would think
@@ -594,11 +585,12 @@ you do is make a folder on your desktop directory and open it in
 created. And I\'m going to make a file in it called **index.html**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 06.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. basic form template (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image006.png"
   style="width:50%;"
-  alt="." />
+  title="Basic Form Template"
+  alt="Basic Form Template." />
 </p>
 
 And just to get used to creating these basic form elements. I\'m going
