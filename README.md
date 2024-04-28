@@ -1,4 +1,12 @@
-
+---
+title: "#3 - University of California @Davis Interactivity with JavaScript and jQuery"
+author: "bbauska"
+date prior editted: "3/23/2024 9+pm"
+date last editted: "4/20/2024 2+pm"
+output: 
+  markdown:
+    with some style
+---
 title: "#4 University of California @Davis Data Manipulation in JavaScript"
 author: "bbauska"
 date prior editted "4/26/24 Fri 12:56pm"
