@@ -355,7 +355,8 @@ manipulated. You will also have the chance to work on an Honors project
 
 24. **Course Summary**
 
-25. **Introduction to Third Party APIs**
+
+01. **Introduction to Third Party APIs**
 
 -   **4.25 Start Files: Studio Ghibli - Part 1**
 
