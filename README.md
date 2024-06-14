@@ -68,10 +68,7 @@ full control of the way information is presented to users.
 <h6>18 videos, 7 readings</h6>
 
 -   **1.00 A Note From UC Davis**
-
--   <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/welcome-to-this-course-K8n2i">
-  1.00 Welcome to this Course!</a></b>
-
+-   **1.00 Welcome to this Course!**
 -   **1.00 Module 1 Introduction**
 
 1.  **Introduction to HTML Forms**
