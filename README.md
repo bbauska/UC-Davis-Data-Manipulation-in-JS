@@ -2,7 +2,7 @@
 title: "#4 University of California @Davis Data Manipulation in JavaScript"
 author: "bbauska"
 date prior editted: "4/26/2024 12+pm"
-date last editted: "4/28/2024 2+am"
+date last editted: "6/14/2024 11+pm"
 output: 
   markdown:
     with some style
