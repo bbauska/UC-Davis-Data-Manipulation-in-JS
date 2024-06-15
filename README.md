@@ -2013,7 +2013,7 @@ particular plug in, and we\'ll do that in the next lesson.
 <!--~~~~~~~~~~~~~ 23.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image023.png"
-  style="width:40%;"
+  style="width:60%;"
   alt="." />
 </p>
 
