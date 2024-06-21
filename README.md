@@ -72,9 +72,9 @@ full control of the way information is presented to users.
 >#### [**1.01 Introduction to HTML Forms**](#ch1-01)
 
 <ul>
-  <li><a href="./zip/1.01-Basic-HTML-Form-START.zip" 
+  <li><a href="./zip/1.01-Basic-Form-HTML-START.zip" 
     target="_blank" rel="noopener noreferrer">
-	1.01 Basic HTML form START (download ZIP)</a></li>
+	1.01 Basic Form HTML START (download ZIP)</a></li>
 </ul>
 
 >#### [**1.02 Adding a Label**](#ch1-02)
@@ -84,9 +84,9 @@ full control of the way information is presented to users.
 >#### [**1.06 Styling Your Forms**](#ch1-06)
 
 <ul>
-  <li><a href="./pdf/1.06-no-name-yet.pdf" 
+  <li><a href="./pdf/1.06-Basic-HTML-Form-Elements.pdf" 
     target="_blank" rel="noopener noreferrer">
-	1.06 No name yet Presentation (display PDF)</a></li>
+	1.06 Basic HTML Form Elements (display PDF)</a></li>
 </ul>
 
 >#### [**1.07 Introduction to Basics of Form Validation**](#ch1-07)
@@ -105,9 +105,9 @@ full control of the way information is presented to users.
 >#### [**1.13 jQuery Validator Plugin - Part 2**](#ch1-13)
 
 <ul>
-  <li><a href="./pdf/1.13-no-name-yet.pdf" 
+  <li><a href="./pdf/1.13-Form-Validation-Basics.pdf" 
     target="_blank" rel="noopener noreferrer">
-	1.13 No name yet Presentation (display PDF)</a></li>
+	1.13 Form Validation Basics (display PDF)</a></li>
 </ul>
 
 >#### [**1.14 Intro to Advanced Form Validation**](#ch1-14)
@@ -124,9 +124,9 @@ full control of the way information is presented to users.
 >#### [**1.18 Styling Your Forms**](#ch1-18)
 
 <ul>
-  <li><a href="./pdf/1.18-no-name-yet.pdf" 
+  <li><a href="./pdf/1.18-Advanced-jQuery-Validator-Plugin.pdf" 
     target="_blank" rel="noopener noreferrer">
-	1.18 No name yet Presentation (display PDF)</a></li>
+	1.18 Advanced jQuery Validator Plugin (display PDF)</a></li>
   <li><a href="./shortcut to module 1 reflection"
     target="_blank" rel="noopener noreferrer">
 	1.18 Module 1 Reflection (shortcut URL)</a></li>
@@ -155,9 +155,9 @@ next module.
 >#### [**2.05 hasOwnProperty()**](#ch2-05)
 
 <ul>
-  <li><a href="./pdf/2.05-no-name-yet.pdf" 
+  <li><a href="./pdf/2.05-Prototypes-Inheritance.pdf" 
     target="_blank" rel="noopener noreferrer">
-	2.05 Presentation (display PDF)</a></li>
+	2.05 Prototypes &amp; Inheritance (display PDF)</a></li>
 </ul>
 
 >#### [**2.06 Introduction to Arrow Functions**](#ch2-06)
@@ -165,23 +165,23 @@ next module.
 >#### [**2.08 Constructor Function Expression**](#ch2-08)
 
 <ul>
-  <li><a href="./pdf/2.08-no-name-yet.pdf" 
+  <li><a href="./pdf/2.08-Arrow-Functions.pdf" 
     target="_blank" rel="noopener noreferrer">
-	2.08 Presentation (display PDF)</a></li>
-  <li><a href="./zip/2.08-Arrow-Function-Challenges.zip" 
+	2.08 Arrow Functions (display PDF)</a></li>
+  <li><a href="./pdf/2.08-Arrow-Function-Challenges.zip" 
     target="_blank" rel="noopener noreferrer">
-	2.08 Arrow Function Challenges (download ZIP)</a></li>
+	2.08 Arrow Function Challenges (display PDF)</a></li>
 </ul>
 
 >#### [**2.09 Seat Reservation Program Introduction**](#ch2-09)
 
 <ul>
-  <li><a href="./zip/2.09-Seat-Reservation-START.zip" 
+  <li><a href="./zip/2.09-Seat-Reservation-Part-1-START.zip" 
     target="_blank" rel="noopener noreferrer">
-	2.09 Seat Reservation START (download ZIP)</a></li>
-  <li><a href="./pdf/2.09-no-name-yet.pdf" 
+	2.09 Seat Reservation Part 1 START (download ZIP)</a></li>
+  <li><a href="./pdf/2.09-Seat-Reservation-Program.pdf" 
     target="_blank" rel="noopener noreferrer">
-	2.09 Presentation (display PDF)</a></li>
+	2.09 Seat Reservation Program (display PDF)</a></li>
   <li><a href="./shortcut to module 2 reflection"
     target="_blank" rel="noopener noreferrer">
 	2.09 Module 2 Reflection (shortcut URL)</a></li>
@@ -210,11 +210,15 @@ practice DOM manipulation techniques.
 <h6>29 videos, 8 readings</h6>
 
 >#### [**3.00 Module 3 Introduction**](#ch3-00-intro)
+>#### [**3.01 Introduction to Creating the Seats**](#ch3-01)
 
 <ul>
   <li><a href="./zip/3.01-Seat-Reservation-Part-1-START.zip" 
     target="_blank" rel="noopener noreferrer">
 	3.01 Seat Reservation - Part 1 START (download ZIP)</a></li>
+  <li><a href="./zip/3.01-Seat-Reservation-Data-HTML.zip" 
+    target="_blank" rel="noopener noreferrer">
+	3.01 Seat Reservation - Data &amp; HTML (download ZIP)</a></li>
 </ul>
 
 >#### [**3.02 The Left Section**](#ch3-02)
@@ -226,9 +230,9 @@ practice DOM manipulation techniques.
 >#### [**3.08 Using an Arrow Function**](#ch3-08)
 
 <ul>
-  <li><a href="./pdf/3.08-no-name-yet.pdf" 
+  <li><a href="./pdf/3.08-Seat-Reservation-Part-1.pdf" 
     target="_blank" rel="noopener noreferrer">
-	3.08 Presentation (display PDF)</a></li>
+	3.08 Seat Reservation Part 1 (display PDF)</a></li>
 </ul>
 
 >#### [**3.09 The reservedSeats Object**](#ch3-09)
@@ -236,9 +240,9 @@ practice DOM manipulation techniques.
 >#### [**3.11 With IIFE Closure**](#ch3-11)
 
 <ul>
-  <li><a href="./pdf/3.11-no-name-yet.pdf" 
+  <li><a href="./pdf/3.11-Seat-Reservation-Part-2.pdf" 
     target="_blank" rel="noopener noreferrer">
-	3.11 Presentation (display PDF)</a></li>
+	3.11 Seat Reservation Part 2 (display PDF)</a></li>
 </ul>
 
 >#### [**3.12 Adding an Array**](#ch3-12)
@@ -249,9 +253,9 @@ practice DOM manipulation techniques.
 >#### [**3.17 The Finished Function**](#ch3-17)
 
 <ul>
-  <li><a href="./pdf/3.17-no-name-yet.pdf" 
+  <li><a href="./pdf/3.17-Seat-Reservation-Part-3.pdf" 
     target="_blank" rel="noopener noreferrer">
-	3.17 Presentation (display PDF)</a></li>
+	3.17 Seat Reservation Part 3 (display PDF)</a></li>
 </ul>
 
 >#### [**3.18 Adding the Form HTML**](#ch3-18)
@@ -270,9 +274,9 @@ practice DOM manipulation techniques.
 >#### [**3.24 Additional Condition Statement**](#ch3-24)
 
 <ul>
-  <li><a href="./pdf/3.24-no-name-yet.pdf" 
+  <li><a href="./pdf/3.24-Seat-Reservation-Part-4.pdf" 
     target="_blank" rel="noopener noreferrer">
-	3.24 Presentation (display PDF)</a></li>
+	3.24 Seat Reservation Part 4 (display PDF)</a></li>
 </ul>
 
 >#### [**3.25 Setting Up the Final Steps**](#ch3-25)
@@ -289,12 +293,12 @@ practice DOM manipulation techniques.
 >#### [**3.29 Final Fixes**](#ch3-29)
 
 <ul>
-  <li><a href="./pdf/3.29-no-name-yet.pdf" 
+  <li><a href="./pdf/3.29-Seat-Reservation-Part-5.pdf" 
     target="_blank" rel="noopener noreferrer">
-	3.29 Presentation (display PDF)</a></li>
+	3.29 Seat Reservation Part 5 (display PDF)</a></li>
   <li><a href="./shortcut to module 3 Reflection"
     target="_blank" rel="noopener noreferrer">
-	3.29 Module 2 Reflection (shortcut URL)</a></li>
+	3.29 Module 3 Reflection (shortcut URL)</a></li>
 </ul>
 
 <h2>Week 4</h2>
@@ -321,9 +325,9 @@ manipulated. You will also have the chance to work on an Honors project
   <li><a href="./zip/4.01-Asynchronous-JS-Examples-START.zip" 
     target="_blank" rel="noopener noreferrer">
 	4.01 Asynchronous JavaScript Examples START (download ZIP)</a></li>
-  <li><a href="./shortcut to additional resources"
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/FormData"
     target="_blank" rel="noopener noreferrer">
-	4.01 Additional Resources (shortcut URL)</a></li>
+	4.01 Form Data API (shortcut URL)</a></li>
 </ul>
 
 >#### [**4.02 Example: XMLHttpRequst - getData();**](#ch4-02)
@@ -337,9 +341,9 @@ manipulated. You will also have the chance to work on an Honors project
 >#### [**4.10 Example 6: Async and Await with JSON**](#ch4-10)
 
 <ul>
-  <li><a href="./pdf/4.10-no-name-yet.pdf" 
+  <li><a href="./pdf/4.10-Asynchronous-JavaScript.pdf" 
     target="_blank" rel="noopener noreferrer">
-	4.10 Presentation (display PDF)</a></li>
+	4.10 Asynchronous JavaScript (display PDF)</a></li>
 </ul>
 
 >#### [**4.11 Introduction to JavaScript Event Loop**](#ch4-11)
@@ -357,7 +361,7 @@ manipulated. You will also have the chance to work on an Honors project
 <ul>
   <li><a href="./pdf/4.14-no-name-yet.pdf" 
     target="_blank" rel="noopener noreferrer">
-	4.14 Presentation (display PDF)</a></li>
+	4.14 PDF TITLE GOES HERE (display PDF)</a></li>
 </ul>
 
 >#### [**4.15 Creating a Basic jQuery Version**](#ch4-15)
@@ -378,9 +382,9 @@ manipulated. You will also have the chance to work on an Honors project
 >#### [**4.23 Updated displayMessage() Function**](#ch4-23)
 
 <ul>
-  <li><a href="./pdf/4.23-no-name-yet.pdf" 
+  <li><a href="./pdf/4.23-Async-Sending-Data.pdf" 
     target="_blank" rel="noopener noreferrer">
-	4.23 Presentation (display PDF)</a></li>
+	4.23 Asynchronous Sending Data (display PDF)</a></li>
 </ul>
 
 >#### [**4.24 Course Summary**](#ch4-24)
@@ -411,7 +415,7 @@ manipulated. You will also have the chance to work on an Honors project
 	4.34 Studio Ghibli Part 2 START (download ZIP)</a></li>
   <li><a href="./shortcut to 4.34 additional resources"
     target="_blank" rel="noopener noreferrer">
-	4.24 Module 4.34 Additional Resources (shortcut URL)</a></li>
+	4.34 Module 4.34 Additional Resources (shortcut URL)</a></li>
 </ul>
 
 >#### [**4.35 Helper Function and People Card**](#ch4-35)
