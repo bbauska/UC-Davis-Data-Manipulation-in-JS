@@ -67,59 +67,70 @@ full control of the way information is presented to users.
 
 <h6>18 videos, 7 readings</h6>
 
--   **1.00 A Note From UC Davis**
--   **1.00 Welcome to this Course!**
--   **1.00 Module 1 Introduction**
+>#### [**1.00 A Note from UC Davis**](#ch1-00-note)
+>#### [**1.00 Welcome to this Course!**](#ch1-00-welcome)
+>#### [**1.01 Introduction to HTML Forms**](#ch1-01)
 
-1.  **Introduction to HTML Forms**
+<ul>
+  <li><a href="./zip/1.01-Basic-HTML-Form-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	1.01 Basic HTML form START (download ZIP)</a></li>
+</ul>
 
--   **1.01 Start Files: Basic Form HTML**
+>#### [**1.02 Adding a Label**](#ch1-02)
+>#### [**1.03 Radio Button Input Types**](#ch1-03)
+>#### [**1.04 Using the Checkboxes Input Types**](#ch1-04)
+>#### [**1.05 Using Textarea Elements**](#ch1-05)
+>#### [**1.06 Styling Your Forms**](#ch1-06)
 
-2.  **Adding a Label**
+<ul>
+  <li><a href="./pdf/1.06-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	1.06 No name yet Presentation (display PDF)</a></li>
+</ul>
 
-3.  **Radio Button Input Types**
+>#### [**1.07 Introduction to Basics of Form Validation**](#ch1-07)
 
-4.  **Using the Checkboxes Input Types**
+<ul>
+  <li><a href="./pdf/1.07-Basic-Form-Examples-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	1.07 Basic Form Examples START (download ZIP)</a></li>
+</ul>
 
-5.  **Using Textarea Elements**
+>#### [**1.08 Processing the Form**](#ch1-08)
+>#### [**1.09 Backend Validation with PHP**](#ch1-09)
+>#### [**1.10 Plain JavaScript Validation - HTML**](#ch1-10)
+>#### [**1.11 jQuery Form Validation**](#ch1-11)
+>#### [**1.12 jQuery Validator Plugin - Part 1**](#ch1-12)
+>#### [**1.13 jQuery Validator Plugin - Part 2**](#ch1-13)
 
-6.  **Styling Your Form**
+<ul>
+  <li><a href="./pdf/1.13-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	1.13 No name yet Presentation (display PDF)</a></li>
+</ul>
 
--   **1.06 PDF of Presentation**
+>#### [**1.14 Intro to Advanced Form Validation**](#ch1-14)
 
-7.  **Introduction to Basics of Form Validation**
+<ul>
+  <li><a href="./zip/1.14-Advanced-Validation-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	1.14 Advanced Validation START (download ZIP)</a></li>
+</ul>
 
--   **1.07 Start Files: Basic Form Examples**
+>#### [**1.15 Starting the Script**](#ch1-15)
+>#### [**1.16 Checking the Phone Number**](#ch1-16)
+>#### [**1.17 Adding Messages**](#ch1-17)
+>#### [**1.18 Styling Your Forms**](#ch1-18)
 
-8.  **Processing the Form**
-
-9.  **Backend Validation with PHP**
-
-10. **Plain JavaScript Validation - HTML**
-
-11. **jQuery Form Validation**
-
-12. **jQuery Validator Plugin - Part 1**
-
-13. **jQuery Validator Plugin - Part 2**
-
--   **1.13 PDF of Presentation**
-
-14. **Introduction to Advanced Form Validation**
-
--   **1.14 Start Files: Advanced Validation**
-
-15. **Starting the Script**
-
-16. **Checking the Phone Number**
-
-17. **Adding Messages**
-
-18. **Styling Your Form**
-
--   **1.18 PDF of Presentation**
-
--   **1.18 Module 1 Reflection**
+<ul>
+  <li><a href="./pdf/1.18-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	1.18 No name yet Presentation (display PDF)</a></li>
+  <li><a href="./shortcut to module 1 reflection"
+    target="_blank" rel="noopener noreferrer">
+	1.18 Module 1 Reflection (shortcut URL)</a></li>
+</ul>
 
 <h2>Week 2</h2>
 
@@ -136,38 +147,45 @@ next module.
 
 <h6>9 videos, 5 readings</h6>
 
--   <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-ZlMzi">
-  2.00 Module 2 Introduction</a></b>
+>#### [**2.00 Module 2 Introduction**](#ch2-00-intro)
+>#### [**2.01 Introduction to Prototypes &amp; Inheritance**](#ch2-01)
+>#### [**2.02 iPhone Example**](#ch2-02)
+>#### [**2.03 Overriding Inheritance**](#ch2-03)
+>#### [**2.04 Another Inheritance Example**](#ch2-04)
+>#### [**2.05 hasOwnProperty()**](#ch2-05)
 
-1.  **Introduction to Prototypes & Inheritance**
+<ul>
+  <li><a href="./pdf/2.05-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	2.05 Presentation (display PDF)</a></li>
+</ul>
 
-2.  **iPhone Example**
+>#### [**2.06 Introduction to Arrow Functions**](#ch2-06)
+>#### [**2.07 Parameters and Arrow Functions**](#ch2-07)
+>#### [**2.08 Constructor Function Expression**](#ch2-08)
 
-3.  **Overriding Inheritance**
+<ul>
+  <li><a href="./pdf/2.08-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	2.08 Presentation (display PDF)</a></li>
+  <li><a href="./zip/2.08-Arrow-Function-Challenges.zip" 
+    target="_blank" rel="noopener noreferrer">
+	2.08 Arrow Function Challenges (download ZIP)</a></li>
+</ul>
 
-4.  **Another Inheritance Example**
+>#### [**2.09 Seat Reservation Program Introduction**](#ch2-09)
 
-5.  **hasOwnProperty()**
-
--   **2.05 PDF of Presentation**
-
-6.  **Introduction to Arrow Functions**
-
-7.  **Parameters and Arrow Functions**
-
-8.  **Constructor Function Expression**
-
--   **2.08 PDF of Presentation**
-
--   **2.08 Arrow Function Challenges**
-
-9.  **Seat Reservation Program Introduction**
-
--   **2.09 Start Files: Seat Reservation - Part 1**
-
--   **2.09 PDF of Presentation**
-
--   **2.09 Module 2 Reflection**
+<ul>
+  <li><a href="./zip/2.09-Seat-Reservation-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	2.09 Seat Reservation START (download ZIP)</a></li>
+  <li><a href="./pdf/2.09-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	2.09 Presentation (display PDF)</a></li>
+  <li><a href="./shortcut to module 2 reflection"
+    target="_blank" rel="noopener noreferrer">
+	2.09 Module 2 Reflection (shortcut URL)</a></li>
+</ul>
 
 <h2>Week 3</h2>
 
@@ -191,84 +209,93 @@ practice DOM manipulation techniques.
 
 <h6>29 videos, 8 readings</h6>
 
--  <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-knrdu">
-  3.00 Module 3 Introduction</a></b>
+>#### [**3.00 Module 3 Introduction**](#ch3-00-intro)
 
-1.  **Introduction to Creating the Seats**
+<ul>
+  <li><a href="./zip/3.01-Seat-Reservation-Part-1-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	3.01 Seat Reservation - Part 1 START (download ZIP)</a></li>
+</ul>
 
--   **3.01 Start Files: Seat Reservation - Part 1**
+>#### [**3.02 The Left Section**](#ch3-02)
+>#### [**3.03 The Right Section**](#ch3-03)
+>#### [**3.04 The Middle Section**](#ch3-04)
+>#### [**3.05 Figuring Out Variables**](#ch3-05)
+>#### [**3.06 Adding Switch Statements**](#ch3-06)
+>#### [**3.07 Adding the Loop and HTML**](#ch3-07)
+>#### [**3.08 Using an Arrow Function**](#ch3-08)
 
-2.  **The Left Section**
+<ul>
+  <li><a href="./pdf/3.08-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	3.08 Presentation (display PDF)</a></li>
+</ul>
 
-3.  **The Right Section**
+>#### [**3.09 The reservedSeats Object**](#ch3-09)
+>#### [**3.10 Affecting the DOM**](#ch3-10)
+>#### [**3.11 With IIFE Closure**](#ch3-11)
 
-4.  **The Middle Section**
+<ul>
+  <li><a href="./pdf/3.11-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	3.11 Presentation (display PDF)</a></li>
+</ul>
 
-5.  **Figuring Out Variables**
+>#### [**3.12 Adding an Array**](#ch3-12)
+>#### [**3.13 Two Pieces Needed**](#ch3-13)
+>#### [**3.14 Getting the Seat ID**](#ch3-14)
+>#### [**3.15 Getting the Index**](#ch3-15)
+>#### [**3.16 Adding the If Statement**](#ch3-16)
+>#### [**3.17 The Finished Function**](#ch3-17)
 
-6.  **Adding Switch Statements**
+<ul>
+  <li><a href="./pdf/3.17-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	3.17 Presentation (display PDF)</a></li>
+</ul>
 
-7.  **Adding the Loop and HTML**
+>#### [**3.18 Adding the Form HTML**](#ch3-18)
 
-8.  **Using an Arrow Function**
+<ul>
+  <li><a href="./zip/3.18-Index-HTML-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	3.18 Index HTML START (download ZIP)</a></li>
+</ul>
 
--   **3.08 PDF of Presentation**
+>#### [**3.19 Open and Close Form Event Handlers**](#ch3-19)
+>#### [**3.20 manageConfirmForm Function**](#ch3-20)
+>#### [**3.21 Updating the Else Statement**](#ch3-21)
+>#### [**3.22 Fixing Bugs on the Form**](#ch3-22)
+>#### [**3.23 Fixing More Bugs**](#ch3-23)
+>#### [**3.24 Additional Condition Statement**](#ch3-24)
 
-9.  **The reservedSeats Object**
+<ul>
+  <li><a href="./pdf/3.24-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	3.24 Presentation (display PDF)</a></li>
+</ul>
 
-10. **Affecting the DOM**
+>#### [**3.25 Setting Up the Final Steps**](#ch3-25)
 
-11. **With IIFE Closure**
+<ul>
+  <li><a href="./zip/3.25-Styles-CSS-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	3.25 Styles CSS START (download ZIP)</a></li>
+</ul>
 
--   **3.11 PDF of Presentation**
+>#### [**3.26 Back to the Object**](#ch3-26)
+>#### [**3.27 Adding Each Record**](#ch3-27)
+>#### [**3.28 Clean Up**](#ch3-28)
+>#### [**3.29 Final Fixes**](#ch3-29)
 
-12. **Adding an Array**
-
-13. **Two Pieces Needed**
-
-14. **Getting the Seat ID**
-
-15. **Getting the Index**
-
-16. **Adding the If Statement**
-
-17. **The Finished Function**
-
--   **3.17 PDF of Presentation**
-
-18. **Adding the Form HTML**
-
--   **3.18 Start Files: Index HTML**
-
-19. **Open and Close Form Event Handlers**
-
-20. **manageConfirmForm Function**
-
-21. **Updating the Else Statement**
-
-22. **Fixing Bugs on the Form**
-
-23. **Fixing More Bugs**
-
-24. **Additional Condition Statement**
-
--   **3.24 PDF of Presentation**
-
-25. **Setting Up the Final Steps**
-
--   **3.25 Start Files: Styles CSS**
-
-26. **Back to the Object**
-
-27. **Adding Each Record**
-
-28. **Clean Up**
-
-29. **Final Fixes**
-
--   **3.29 PDF of Presentation**
-
--   **3.29 Module 3 Reflection**
+<ul>
+  <li><a href="./pdf/3.29-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	3.29 Presentation (display PDF)</a></li>
+  <li><a href="./shortcut to module 3 Reflection"
+    target="_blank" rel="noopener noreferrer">
+	3.29 Module 2 Reflection (shortcut URL)</a></li>
+</ul>
 
 <h2>Week 4</h2>
 
@@ -287,119 +314,125 @@ manipulated. You will also have the chance to work on an Honors project
 
 <h6>42 videos, 12 readings</h6>
 
--   <b><a href="https://www.coursera.org/lecture/javascript-data-manipulation/module-introduction-WzeAM">
-  4.00 Module 4 Introduction</a></b>
+>#### [**4.00 Module 4 Introduction**](#ch4-00-intro)
+>#### [**4.01 Introduction to Asynchronous JavaScript**](#ch4-01)
 
-1.  **Introduction to Asynchronous JavaScript**
+<ul>
+  <li><a href="./zip/4.01-Asynchronous-JS-Examples-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	4.01 Asynchronous JavaScript Examples START (download ZIP)</a></li>
+  <li><a href="./shortcut to additional resources"
+    target="_blank" rel="noopener noreferrer">
+	4.01 Additional Resources (shortcut URL)</a></li>
+</ul>
 
--   **4.01 Start Files: Asynchronous JS Examples**
+>#### [**4.02 Example: XMLHttpRequst - getData();**](#ch4-02)
+>#### [**4.03 Example: XMLHttpRequst - useResponse();**](#ch4-03)
+>#### [**4.04 jQuery to the Rescue**](#ch4-04)
+>#### [**4.05 The Fetch API and Promies - getData();**](#ch4-05)
+>#### [**4.06 The Fetch API and Promies - response.text;**](#ch4-06)
+>#### [**4.07 Async and Await Keywords**](#ch4-07)
+>#### [**4.08 Working with JSON Data**](#ch4-08)
+>#### [**4.09 Example 5: OutputHTML Function**](#ch4-09)
+>#### [**4.10 Example 6: Async and Await with JSON**](#ch4-10)
 
--   **4.01 Additional Resource**
+<ul>
+  <li><a href="./pdf/4.10-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	4.10 Presentation (display PDF)</a></li>
+</ul>
 
-2.  **Example: XMLHttpRequest - getData();**
+>#### [**4.11 Introduction to JavaScript Event Loop**](#ch4-11)
 
-3.  **Example: XMLHttpRequest - useResponse();**
+<ul>
+  <li><a href="./zip/4.11-JavaScript-Event-Loop-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	4.11 JavaScript Event Loop START (download ZIP)</a></li>
+</ul>
 
-4.  **jQuery to the Rescue**
+>#### [**4.12 Example 3**](#ch4-12)
+>#### [**4.13 Example 4 &amp; 5**](#ch4-13)
+>#### [**4.14 Example 6: setTimeout**](#ch4-14)
 
-5.  **The Fetch API and Promises - getData();**
+<ul>
+  <li><a href="./pdf/4.14-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	4.14 Presentation (display PDF)</a></li>
+</ul>
 
-6.  **The Fetch API and Promises - response.text;**
+>#### [**4.15 Creating a Basic jQuery Version**](#ch4-15)
 
-7.  **Async and Await Keywords**
+<ul>
+  <li><a href="./zip/4.15-Contact-Form-Project-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	4.15 Contact Form Project START (download ZIP)</a></li>
+</ul>
 
-8.  **Working with JSON Data**
+>#### [**4.16 Loading and Validating Form Data**](#ch4-16)
+>#### [**4.17 Sending the Data**](#ch4-17)
+>#### [**4.18 Async / Await Version**](#ch4-18)
+>#### [**4.19 Getting the Data**](#ch4-19)
+>#### [**4.20 Creating a Contact Me Form**](#ch4-20)
+>#### [**4.21 Working with Error Messages**](#ch4-21)
+>#### [**4.22 The sendData() Function**](#ch4-22)
+>#### [**4.23 Updated displayMessage() Function**](#ch4-23)
 
-9.  **Example 5: OutputHTML Function**
+<ul>
+  <li><a href="./pdf/4.23-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	4.23 Presentation (display PDF)</a></li>
+</ul>
 
-10. **Example 6: Async and Await with JSON**
+>#### [**4.24 Course Summary**](#ch4-24)
+>#### [**4.25 Introduction to Third Party APIs**](#ch4-25)
 
--   **4.10 PDF of Presentation**
+<ul>
+  <li><a href="./zip/4.25-Studio-Ghibli-Part-1-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	4.25 Studio Ghibli Part 1 START (download ZIP)</a></li>
+  <li><a href="./shortcut to 4.25 additional resources"
+    target="_blank" rel="noopener noreferrer">
+	4.25 Module 4.25 Additional Resources (shortcut URL)</a></li>
+</ul>
 
-11. **Introduction to JavaScript Event Loop**
+>#### [**4.26 Starting Your Project**](#ch4-26)
+>#### [**4.27 Creating the Card**](#ch4-27)
+>#### [**4.28 The Whole Function and Sorting Function**](#ch4-28)
+>#### [**4.29 Adding a Form**](#ch4-29)
+>#### [**4.30 setSort() Function**](#ch4-30)
+>#### [**4.31 Running and Changing the Sort**](#ch4-31)
+>#### [**4.32 Fixing the Current Flow**](#ch4-32)
+>#### [**4.33 One More Thing**](#ch4-33)
+>#### [**4.34 Getting Started and Updating createCard() Function**](#ch4-34)
 
--   **4.11 Start Files: JavaScript Event Loop**
+<ul>
+  <li><a href="./zip/4.34-Studio-Ghibli-Part-2-START.zip" 
+    target="_blank" rel="noopener noreferrer">
+	4.34 Studio Ghibli Part 2 START (download ZIP)</a></li>
+  <li><a href="./shortcut to 4.34 additional resources"
+    target="_blank" rel="noopener noreferrer">
+	4.24 Module 4.34 Additional Resources (shortcut URL)</a></li>
+</ul>
 
-12. **Example 3**
+>#### [**4.35 Helper Function and People Card**](#ch4-35)
+>#### [**4.36 Testing the People Card**](#ch4-36)
+>#### [**4.37 Click Handlers, Alerts, and Variables**](#ch4-37)
+>#### [**4.38 Data Promise and Update Create Card**](#ch4-38)
+>#### [**4.39 Looking At Locations**](#ch4-39)
+>#### [**4.40 Dealing With Errors**](#ch4-40)
+>#### [**4.41 Species and Vehicle Cards**](#ch4-41)
+>#### [**4.42 Fixing the Sort**](#ch4-42)
 
-13. **Examples 4 & 5**
-
-14. **Example 6: setTimeout**
-
--   **4.14 PDF of Presentation**
-
-15. **Creating a Basic jQuery Version**
-
--   **4.15 Start Files: Contact Form Project**
-
-16. **Loading and Validating Form Data**
-
-17. **Sending the Data**
-
-18. **Async / Await Version**
-
-19. **Getting the Data**
-
-20. **Creating a Contact Me Form**
-
-21. **Working with Error Messages**
-
-22. **The sendData() Function**
-
-23. **Updated displayMessage() Function**
-
--   **4.23 PDF of Presentation**
-
-24. **Course Summary**
+<ul>
+  <li><a href="./pdf/4.42-no-name-yet.pdf" 
+    target="_blank" rel="noopener noreferrer">
+	4.42 Presentation (display PDF)</a></li>
+</ul>
 
 
-01. **Introduction to Third Party APIs**
 
--   **4.25 Start Files: Studio Ghibli - Part 1**
 
--   **4.25 Additional Resources**
-
-26. **Starting Your Project**
-
-27. **Creating the Card**
-
-28. **The Whole Function and Sorting Function**
-
-29. **Adding a Form**
-
-30. **setSort() Function**
-
-31. **Running and Changing the Sort**
-
-32. **Fixing the Current Flow**
-
-33. **One More Thing**
-
-34. **Getting Started and Updating createCard Function**
-
--   **4.34 Start Files: Studio Ghibli - Part 2**
-
--   **4.34 Additional Resources**
-
-35. **Helper Function and People Card**
-
-36. **Testing the People Card**
-
-37. **Click Handlers, Alerts, and Variables**
-
-38. **Data Promise and Update Create Card**
-
-39. **Looking At Locations**
-
-40. **Dealing With Errors**
-
-41. **Species and Vehicle Cards**
-
-42. **Fixing the Sort**
-
--   **4.42 PDF of Presentations**
-
-<h2 id="ch1-00">1.00 A Note from UC Davis (10 min)</h2>
+<h2 id="ch1-00-note">1.00 A Note from UC Davis (10 min)</h2>
 
 <h3>Welcome to this course!</h3>
 
@@ -481,7 +514,7 @@ We look forward to having you in this course. Happy learning!
 -   <a href="https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code">
   Coursera's Honor Code:</a>
 
-<h2 id="ch1">Week 1 -- Collecting & Validating Data from Users</h2>
+<h2 id="ch1">Week 1 -- Collecting &amp; Validating Data from Users</h2>
 
 <h2 id="ch1-00-obj">Learning Objectives</h2>
 
@@ -507,6 +540,8 @@ We look forward to having you in this course. Happy learning!
 <p align="center" width="100%">
 <img src="./images/image002.png"
   style="width:40%;"
+  title="Introduction to Data Manipulation in JavaScript by William Mead, 
+    (lecturer, UC Davis)"
   alt="Introduction to Data Manipulation in JavaScript by William Mead, 
     (lecturer, UC Davis)." />
 </p>
@@ -6658,8 +6693,10 @@ I\'m sure that if you keep practicing and keep working on it, you\'ll
 continue to progress to become the developer that you want to be and to
 meet your goals.
 
-.the end. 1/10/24 3:42pm
-.the end. 4/10/24 Mon 2:32am
-.the end. 4/26/24 Fri 12:56pm
+<h6>.the end. 1/10/24 3:42pm</h6>
+<h6>.the end. 4/10/24 Mon 2:32am</h6>
+<h6>.the end. 4/26/24 Fri 12:56pm</h6>
+<h6>.the end. 6/21/24 Fri 9:19am</h6>
 
-
+</body>
+</html>
