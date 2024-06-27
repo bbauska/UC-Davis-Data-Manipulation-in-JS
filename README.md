@@ -540,13 +540,13 @@ We look forward to having you in this course. Happy learning!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00">1.00 Course Introduction (0:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 02. course introduction to data manipulation in javascript (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 03. course introduction to data manipulation in javascript (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image002.png"
+<img src="./images/image003.png"
   style="width:40%;"
-  title="Introduction to Data Manipulation in JavaScript by William Mead, 
+  title="Introduction to Data Manipulation in JavaScript, by William Mead, 
     (lecturer, UC Davis)"
-  alt="Introduction to Data Manipulation in JavaScript by William Mead, 
+  alt="Introduction to Data Manipulation in JavaScript, by William Mead, 
     (lecturer, UC Davis)." />
 </p>
 
@@ -561,20 +561,19 @@ forward to working through this material with you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01 Introduction to HTML Forms (7:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 03. introduction to html forms (1.01) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 04. introduction to html forms (1.01) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image003.png"
+<img src="./images/image004.png"
   style="width:40%;"
   title="1.01 Introduction to HTML Forms"
   alt="1.01 Introduction to HTML Forms." />
 </p>
 
 Basic html form elements.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. no one likes forms (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. no one likes forms (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image004.png"
+<img src="./images/image005.png"
   style="width:40%;"
   title="No One Likes Forms"
   alt="No One Likes Forms." />
@@ -595,9 +594,9 @@ how we can collect data from users and what we can do to make sure that
 we\'re getting the correct data from users. And looking at ways in which
 we can improve the user experience by designing forms properly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. example, starting a form (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. example, starting a form (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image005.png"
+<img src="./images/image006.png"
   style="width:50%;"
   title="Example, Starting a Form"
   alt="Example, Starting a Form." />
@@ -622,9 +621,9 @@ you do is make a folder on your desktop directory and open it in
 created. And I\'m going to make a file in it called **index.html**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. basic form template (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. basic form template (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image006.png"
+<img src="./images/image007.png"
   style="width:50%;"
   title="Basic Form Template"
   alt="Basic Form Template." />
@@ -677,17 +676,19 @@ So these are some of the different attributes you could put in there.
 <h3 id="ch1-01-start">1.01 Start Files: Basic Form HTML</h3>
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-data-manipulation/supplement/1zAAF/start-files-basic-form-html">1.01 Basicform.HTML.ZIP</a></li>
+  <li><a href="./1.01-Basicform.HTML.zip">
+    1.01 Basicform.HTML.ZIP</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-02">1.02 Adding a Label (5:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 07.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. adding a label (1.02) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image007.png"
+<img src="./images/image012.png"
   style="width:40%;"
-  alt="." />
+  text="1.02 Adding a Label"
+  alt="1.02 Adding a Label." />
 </p>
 
 We\'ve got our form started and we\'ve added an input field of type
@@ -753,11 +754,12 @@ vertically.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-03">1.03 Radio Button Input Types (5:47)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 08.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 19. radio button input types (1.03) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image008.png"
+<img src="./images/image019.png"
   style="width:40%;"
-  alt="." />
+  title="1.03 Radio Button Input Types"
+  alt="1.03 Radio Button Input Types." />
 </p>
 
 Let\'s talk about Radio Button Input Types. For radio buttons and
@@ -816,11 +818,12 @@ you can get rid of that and style it any way you like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-04">1.04 Using the Checkboxes Input Types (8:15)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 09.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 09. using the checkboxes input types (1.04) (0x) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image009.png"
   style="width:40%;"
-  alt="." />
+  title="1.04 Using the Checkboxes Input Types"
+  alt="1.04 Using the Checkboxes Input Types." />
 </p>
 
 Next, we\'ll take a look at how to work with checkboxes. Checkboxes are
@@ -895,11 +898,12 @@ through without any value at all.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-05">1.05 Using Textarea Elements (6:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 10.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 10. using textarea elements (1.05) (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image010.png"
   style="width:40%;"
-  alt="." />
+  title="1.05 Using Textarea Elements"
+  alt="1.05 Using Textarea Elements." />
 </p>
 
 Next, we\'ll look at using text area elements. So, let\'s take a look at
@@ -975,11 +979,12 @@ exist.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-06">1.06 Styling Your Form (4:46)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 11.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 11. styling your forms (1.06) (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image011.png"
   style="width:40%;"
-  alt="." />
+  title="1.06 Styling Your Forms"
+  alt="1.06 Styling Your Forms." />
 </p>
 
 Our form is looking pretty awful. It works, but the styling is just
@@ -1039,18 +1044,19 @@ they\'re very useful and we\'ll be using them a lot on any kind of
 website or web application.
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-data-manipulation/supplement/E3GQO/pdf-of-presentation">
+  <li><a href="./pdf/1.06-HTML-FormElements.pdf">
   1.06 HTML-FormElements.pdf</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 Basics of Form Validation (5:36)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 12.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 12. basics of form validation (1.07) (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image012.png"
   style="width:40%;"
-  alt="." />
+  title="1.07 Basics of Form Validation"
+  alt="1.07 Basics of Form Validation." />
 </p>
 
 Form validation basics, built-in browser validation, JavaScript, and
@@ -1127,11 +1133,12 @@ well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-08">1.08 Processing the Form (7:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 13.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. processing the form (1.08) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image013.png"
   style="width:40%;"
-  alt="." />
+  title="1.08 Processing the Form"
+  alt="1.08 Processing the Form." />
 </p>
 
 An important thing to note about the Example 0 files is that there is no
@@ -1226,11 +1233,12 @@ well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-09">1.09 Backend Validation with PHP (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 14.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 14. backend validation with php (1.09) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image014.png"
   style="width:40%;"
-  alt="." />
+  title="1.09 Backend Validation with PHP"
+  alt="1.09 Backend Validation with PHP." />
 </p>
 
 Backend validation with PHP. In the next version of this file and I\'ll
@@ -1319,11 +1327,12 @@ expressions without having to write them yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-10">1.10 Plain JavaScript Validation - HTML (10:46)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 15.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 15. plain javascript validation - html (1.10) (0x) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image015.png"
   style="width:40%;"
-  alt="." />
+  title="1.10 Plain JavaScipt Validation - HTML"
+  alt="1.10 Plain JavaScipt Validation - HTML." />
 </p>
 
 The next version of the script that will look at which is in the ex2
@@ -1461,11 +1470,12 @@ we\'ll look at in the next videos.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-11">1.11 jQuery Form Validation (5:53)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 16.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. jquery form validation (1.11) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image016.png"
   style="width:40%;"
-  alt="." />
+  title="1.11 jQuery Form Validation"
+  alt="1.11 jQuery Form Validation." />
 </p>
 
 In the next version of our script we\'re going to use jQuery to do the
@@ -5781,7 +5791,7 @@ finished first and then the first one finished last, So that\'s pretty
 interesting.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id"ch4-14">4.14 Example 6: setTimeout (3:29)</h2>
+<h2 id="ch4-14">4.14 Example 6: setTimeout (3:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
