@@ -26,17 +26,16 @@ output:
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
-<a href="https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs">
-  Animation with CSS &amp; JS</a>
-
-<a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs">
-  Basic Modal Template</a>
-
-<a href="https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs">
-  Overview of Objects &amp; Prototypes:</a>
-
-<a href="https://traceyh.hashnode.dev/javascript-dom-manipulation-cheat-sheet">JS DOM Manipulation Cheat Sheet</a>
-
+<h3>Great resources:</h3>
+<ul>
+  <li><a href="https://traceyh.hashnode.dev/animation-with-css-and-js?source=more_articles_bottom_blogs">
+    Animation with CSS &amp; JS</a></li>
+  <li><a href="https://traceyh.hashnode.dev/guide-basic-template-for-creating-a-modal?source=more_articles_bottom_blogs">
+    Basic Modal Template</a></li>
+  <li><a href="https://traceyh.hashnode.dev/overview-of-objects-prototypes?source=more_articles_bottom_blogs">
+    Overview of Objects &amp; Prototypes:</a></li>
+  <li><a href="https://traceyh.hashnode.dev/javascript-dom-manipulation-cheat-sheet">JS DOM Manipulation Cheat Sheet</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ about data manipulation in javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>About this Course</h3>
 
