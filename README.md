@@ -2356,7 +2356,7 @@ object, which has its own set of constructors, and set of methods, and
 properties. Every time you&apos;re making an array, you&apos;re making an
 instance of the array object, which is really an instance of the object
 object. Hopefully, that makes sense.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-04">2.04 Another Inheritance Example (8:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
@@ -2470,18 +2470,16 @@ then it&apos;s going through the objects that it&apos;s inheriting from its
 prototype. All in order here. Notice the order because that helps you
 understand the way that JavaScript is accessing the different
 properties.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-05">2.05 hasOwnProperty() (3:17)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image029.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image29.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image29.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Frequently in real-world programming situations, you don&apos;t want to
 inherit, you don&apos;t want to access the properties that are inherited.
@@ -2517,22 +2515,19 @@ languages. But if you can get your head around the ideas, it&apos;s a very
 powerful feature of this particular language. The way prototypes and
 inheritance and the way functions work in JavaScript is a really great
 combination. We&apos;re going to see that in some projects coming up.
-
 <ul>
   <li><a href="">2.05 Prototypes-and-Inheritance.pdf</a></li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-06">2.06 Introduction to Arrow Functions (6:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image030.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image30.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image30.png){width="4.0in" height="2.2538462379702535in"} -->
 
 We&apos;ve seen a few examples of arrow functions already, back when we
 first introduced functions, in the very first course in the
@@ -2611,17 +2606,16 @@ need to leave the parentheses in there. But there are possibilities for
 shortening down this function expression into just one line, which is
 pretty amazing.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-07">2.07 Parameters and Arrow Functions (7:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image031.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image31.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image31.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Here&apos;s an example with more than one parameter. So I&apos;m passing in
 first name and last name, and then I&apos;m just returning the first name
@@ -2695,17 +2689,16 @@ upperFruit here, and this is not a return statement so we need to keep
 the curly braces. Check and make sure that works, that I did that right.
 And sure enough it works fine.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-08">2.08 Constructor Function Expression (5:03)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 32.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image032.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image32.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image32.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Here we have a Constructor Function Expression. This has a good place
 where we can use our era functions. What you should do is, type this
@@ -2764,18 +2757,16 @@ people&apos;s code.
   <li><a href="">2.08 Arrow-Functions.pdf</a></li>
   <li><a href="">2.08 Arrow-Function-Challenges.pdf</a></li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-09">2.09 Seat Reservation Program Introduction (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image033.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image33.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image33.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Seat reservation program: Introduction. Imagine for a second you&apos;re
 going to an event and you can purchase seats and reserve them. Not an
@@ -2905,13 +2896,11 @@ started on it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image035.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image35.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image35.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Seat reservation program part 1, creating the seats. In this part of the
 project. I&apos;m going to show you the solution that I came up with for
@@ -2973,15 +2962,13 @@ put them in right to start if you wanted to.
 
 <h2 id="ch3-02">3.02 The Left Section (6:08)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 36.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image036.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image36.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image36.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Let&apos;s try to work on the left section and see if we can get that
 working in some semblance of what we need. So what I&apos;m going to do here
@@ -3053,9 +3040,9 @@ we fix that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 The Right Section (5:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 37.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image037.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3124,7 +3111,7 @@ take care of the center part of the stage.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image038.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3173,9 +3160,9 @@ script a little bit more.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 Figuring Out Variables (4:38)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 39.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image039.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3230,9 +3217,9 @@ see what we need to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 Adding Switch Statements (8:12)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 40.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image040.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3311,9 +3298,9 @@ loop, and we will have this function pretty much done.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 Adding the Loop and HTML (8:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 41.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image041.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3391,9 +3378,9 @@ the way down to 300, and that&apos;s working perfectly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-08">3.08 Using an Arrow Function (5:31)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 42.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image042.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3469,9 +3456,9 @@ that those seats have been previously reserved.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-09">3.09 The reservedSeats Object (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 43.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image043.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3531,9 +3518,9 @@ So if you can get those two pieces of information in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-10">3.10 Affecting the DOM (4:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 44.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image044.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3582,9 +3569,9 @@ part and get ready for the challenge for the next part.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-11">3.11 With IIFE Closure (3:54)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 45.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image045.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3635,9 +3622,9 @@ for solving this problem in the next part of this project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-12">3.12 Adding an Array (3:26)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 46.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image046.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3681,9 +3668,9 @@ when you click it. So we&apos;ll do this part in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-13">3.13 Two Pieces Needed (4:51)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 47.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image047.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3736,9 +3723,9 @@ here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-14">3.14 Getting the Seat ID (4:30)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 48.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image048.png"
   style="width:40%;"
   alt="." />
 </p>
@@ -3790,15 +3777,13 @@ can figure out, and then we&apos;ll look at it in the next lesson together.
 
 # 3.15 Getting the Index (3:45) {#getting-the-index-345 .unnumbered}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 49.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image049.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image49.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image49.png){width="4.0in" height="2.2538462379702535in"} -->
 
 And if we go over and actually look this up on the Mozilla developer
 network. You can scroll down here and get some examples of how it works.
@@ -3840,15 +3825,13 @@ that in the next lesson.
 
 # 3.16 Adding the If Statement (3:22) {#adding-the-if-statement-322 .unnumbered}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 50.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image050.png"
   style="width:40%;"
   alt="." />
 </p>
-
-![](./3-9-images/media/image50.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- ![](./3-9-images/media/image50.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Your challenge was to write the if statement that we would need to use
 to determine if an element that&apos;s clicked on is in the array or not.
