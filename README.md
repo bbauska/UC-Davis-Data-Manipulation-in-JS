@@ -156,7 +156,7 @@ next module.</p>
 >#### [**2.05 hasOwnProperty()**](#ch2-05)
 
 <ul>
-  <li><a href="./pdf/2.05-Prototypes-Inheritance.pdf" 
+  <li><a href="./pdf/2.05-Prototypes&Inheritance.pdf" 
     target="_blank" rel="noopener noreferrer">
 	2.05 Prototypes &amp; Inheritance (display PDF)</a></li>
 </ul>
