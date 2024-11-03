@@ -177,7 +177,7 @@ next module.</p>
 >#### [**2.09 Seat Reservation Program Introduction**](#ch2-09)
 
 <ul>
-  <li><a href="./zip/2.09-Seat-Reservation-Part-1-START.zip" 
+  <li><a href="./zip/2.09-Seat-Reservation-Part1-START.zip" 
     target="_blank" rel="noopener noreferrer">
 	2.09 Seat Reservation Part 1 START (download ZIP)</a></li>
   <li><a href="./pdf/2.09-Seat-Reservation-Program.pdf" 
@@ -214,7 +214,7 @@ practice DOM manipulation techniques.</p>
 >#### [**3.01 Introduction to Creating the Seats**](#ch3-01)
 
 <ul>
-  <li><a href="./zip/3.01-Seat-Reservation-Part-1-START.zip" 
+  <li><a href="./zip/3.01-Seat-Reservation-Part1-START.zip" 
     target="_blank" rel="noopener noreferrer">
 	3.01 Seat Reservation - Part 1 START (download ZIP)</a></li>
   <li><a href="./zip/3.01-Seat-Reservation-Data-HTML.zip" 
@@ -231,7 +231,7 @@ practice DOM manipulation techniques.</p>
 >#### [**3.08 Using an Arrow Function**](#ch3-08)
 
 <ul>
-  <li><a href="./pdf/3.08-Seat-Reservation-Part-1.pdf" 
+  <li><a href="./pdf/3.08-Seat-Reservation-Part1.pdf" 
     target="_blank" rel="noopener noreferrer">
 	3.08 Seat Reservation Part 1 (display PDF)</a></li>
 </ul>
@@ -241,7 +241,7 @@ practice DOM manipulation techniques.</p>
 >#### [**3.11 With IIFE Closure**](#ch3-11)
 
 <ul>
-  <li><a href="./pdf/3.11-Seat-Reservation-Part-2.pdf" 
+  <li><a href="./pdf/3.11-Seat-Reservation-Part2.pdf" 
     target="_blank" rel="noopener noreferrer">
 	3.11 Seat Reservation Part 2 (display PDF)</a></li>
 </ul>
@@ -254,7 +254,7 @@ practice DOM manipulation techniques.</p>
 >#### [**3.17 The Finished Function**](#ch3-17)
 
 <ul>
-  <li><a href="./pdf/3.17-Seat-Reservation-Part-3.pdf" 
+  <li><a href="./pdf/3.17-Seat-Reservation-Part3.pdf" 
     target="_blank" rel="noopener noreferrer">
 	3.17 Seat Reservation Part 3 (display PDF)</a></li>
 </ul>
@@ -275,7 +275,7 @@ practice DOM manipulation techniques.</p>
 >#### [**3.24 Additional Condition Statement**](#ch3-24)
 
 <ul>
-  <li><a href="./pdf/3.24-Seat-Reservation-Part-4.pdf" 
+  <li><a href="./pdf/3.24-Seat-Reservation-Part4.pdf" 
     target="_blank" rel="noopener noreferrer">
 	3.24 Seat Reservation Part 4 (display PDF)</a></li>
 </ul>
@@ -294,7 +294,7 @@ practice DOM manipulation techniques.</p>
 >#### [**3.29 Final Fixes**](#ch3-29)
 
 <ul>
-  <li><a href="./pdf/3.29-Seat-Reservation-Part-5.pdf" 
+  <li><a href="./pdf/3.29-Seat-Reservation-Part5.pdf" 
     target="_blank" rel="noopener noreferrer">
 	3.29 Seat Reservation Part 5 (display PDF)</a></li>
   <li><a href="./shortcut to module 3 Reflection"
@@ -2845,7 +2845,7 @@ look forward to popping in on the forums from time to time to see what
 solutions you come up with.
 
 <ul>
-  <li><a href="">2.09 Seat-Reservation-Part-1-START.zip</a></li>
+  <li><a href="">2.09 Seat-Reservation-Part1-START.zip</a></li>
   <li><a href="">2.09 Seat-Reservation-Introduction.pdf</a></li>
 </ul>
 
@@ -2956,7 +2956,7 @@ them. I think it&apos;s helpful to see how to do it that way. But you could
 put them in right to start if you wanted to.
 
 <ul>
-  <li><a href="">3.01 Seat-Reservation-Part-1-START.ZIP</a></li>
+  <li><a href="">3.01 Seat-Reservation-Part1-START.ZIP</a></li>
   <li><a href="">3.01 Seat-Reservation-Data.HTML.ZIP</a></li>
 </ul>
 
@@ -3450,7 +3450,7 @@ object that we pasted at the top of the page and changes the DOM to show
 that those seats have been previously reserved.
 
 <ul>
-  <li><a href="">3.08 Seat-Reservation-Part-1.pdf</a></li>
+  <li><a href="">3.08 Seat-Reservation-Part1.pdf</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3617,7 +3617,7 @@ Great. Good luck with that and perhaps they&apos;ll come up with a different
 solution than what I came up with, but we&apos;ll take a look at my solution
 for solving this problem in the next part of this project.
 
-## 3.11.Seat-Reservation-Part-2.pdf
+## 3.11.Seat-Reservation-Part2.pdf
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-12">3.12 Adding an Array (3:26)</h2>
@@ -3938,7 +3938,7 @@ interface that allows us to select seats and put them into an array, as
 well as an interface that allows us to pull from an object and show
 seats that had been previously reserved. Okay, great.
 
-## 3.17.Seat-Reservation-Part-3.pdf
+## 3.17.Seat-Reservation-Part3.pdf
 
 # 3.18 Adding the Form HTML (4:08) {#adding-the-form-html-408 .unnumbered}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4381,7 +4381,7 @@ up the process of completing a task in a project. And if you can sort of
 route those out, figure them out and then solve them, your project will
 get better and better over time.
 
-## 3.24.Seat-Reservation-Part-4.pdf
+## 3.24.Seat-Reservation-Part4.pdf
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-25">3.25 Setting Up the Final Steps (6:01)</h2>
