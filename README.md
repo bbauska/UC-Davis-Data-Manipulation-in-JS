@@ -3,6 +3,7 @@ title: "#4 University of California @Davis Data Manipulation in JavaScript"
 author: "bbauska"
 date prior editted: "4/26/2024 12+pm"
 date last editted: "8/20/2024 11+pm"
+date last editted: "1/01/2025 6+pm"
 output: 
   markdown:
     with some style
@@ -955,8 +956,8 @@ kind of an important thing to be able to do. Now, there are a couple
 other things you can do to submit forms. You can also use input type
 image.
 
-So, if you want to set an image as a button instead of having the
-browser render a button Like this one, you can actually use an image
+If you want to set an image as a button instead of having the
+browser render a button like this one, you can actually use an image
 there, you can actually use the button element if you want to, to submit
 a form. But the most common way is type submit. It&apos;s the most common
 way. And then, secondly, you could also add an input type reset if you
@@ -1043,12 +1044,12 @@ website or web application.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 Basics of Form Validation (5:36)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 12. basics of form validation (1.07) (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 12. basics of form validation: adding a label (1.07) (0x) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image012.png"
   style="width:40%;"
-  title="1.07 Basics of Form Validation"
-  alt="1.07 Basics of Form Validation." />
+  title="1.07 Basics of Form Validation: Adding a Label"
+  alt="1.07 Basics of Form Validation: Adding a Label." />
 </p>
 
 Form validation basics, built-in browser validation, JavaScript, and
@@ -1546,11 +1547,12 @@ again, this is kind of an old school method for doing this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-12">1.12 jQuery Validator Plugin -- Part 1 (11:38)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 17.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 17. Form Basics (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image017.png"
   style="width:40%;"
-  alt="." />
+  title="Form Basics"
+  alt="Form Basics." />
 </p>
 
 The next version of our script is going to use a jQuery plugin. The
@@ -1685,6 +1687,7 @@ validator plugin, and we can get into a lot more with it.
 <p align="center" width="100%">
 <img src="./images/image018.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -1750,11 +1753,12 @@ see which one you like to work with.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-14">1.14 Introduction to Advanced Form Validation (4:34)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 19.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 19. radio button input types (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image019.png"
   style="width:40%;"
-  alt="." />
+  title=""
+  alt="Radio Button Input Types." />
 </p>
 
 The jQuery Validator Plugin advanced options. In this lesson, in this
@@ -1831,6 +1835,7 @@ you could put it in an external file if you want to.
 <p align="center" width="100%">
 <img src="./images/image020.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -1918,6 +1923,7 @@ now.
 <p align="center" width="100%">
 <img src="./images/image021.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -1989,6 +1995,7 @@ lesson.
 <p align="center" width="100%">
 <img src="./images/image022.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -2052,6 +2059,7 @@ particular plug in, and we&apos;ll do that in the next lesson.
 <p align="center" width="100%">
 <img src="./images/image023.png"
   style="width:60%;"
+  title=""
   alt="." />
 </p>
 
@@ -2158,6 +2166,7 @@ different tools that could be handy for a lot of different projects.
 <p align="center" width="100%">
 <img src="./images/image024.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -2179,6 +2188,7 @@ on this. I think you&apos;re going to get a lot out of it.
 <p align="center" width="100%">
 <img src="./images/image025.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -2248,6 +2258,7 @@ this prototype that every iPhone might have been
 <p align="center" width="100%">
 <img src="./images/image026.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -2296,6 +2307,7 @@ this stuff.
 <p align="center" width="100%">
 <img src="./images/image027.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -2363,11 +2375,11 @@ object. Hopefully, that makes sense.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
-![](./3-9-images/media/image28.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- (./images/image028.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Let&apos;s take a look at another inheritance example, really to just drive
 the point home. No pun intended. But suppose we had a variable called
@@ -2477,9 +2489,10 @@ properties.
 <p align="center" width="100%">
 <img src="./images/image029.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image29.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image029.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Frequently in real-world programming situations, you don&apos;t want to
 inherit, you don&apos;t want to access the properties that are inherited.
@@ -2525,9 +2538,10 @@ combination. We&apos;re going to see that in some projects coming up.
 <p align="center" width="100%">
 <img src="./images/image030.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image30.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image030.png){width="4.0in" height="2.2538462379702535in"} -->
 
 We&apos;ve seen a few examples of arrow functions already, back when we
 first introduced functions, in the very first course in the
@@ -2613,9 +2627,10 @@ pretty amazing.
 <p align="center" width="100%">
 <img src="./images/image031.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image31.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image031.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Here&apos;s an example with more than one parameter. So I&apos;m passing in
 first name and last name, and then I&apos;m just returning the first name
@@ -2696,9 +2711,10 @@ And sure enough it works fine.
 <p align="center" width="100%">
 <img src="./images/image032.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image32.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image032.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Here we have a Constructor Function Expression. This has a good place
 where we can use our era functions. What you should do is, type this
@@ -2764,9 +2780,10 @@ people&apos;s code.
 <p align="center" width="100%">
 <img src="./images/image033.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image33.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image033.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Seat reservation program: Introduction. Imagine for a second you&apos;re
 going to an event and you can purchase seats and reserve them. Not an
@@ -2879,8 +2896,7 @@ solutions you come up with.
 
 <h2 id="ch3-00">3.00 Introduction (0:42)</h2>
 
-![](./3-9-images/media/image34.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- (./images/image034.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Hello and welcome to our third module. In our fourth course on
 Javascript. In this module will be building a seat reservation system.
@@ -2898,9 +2914,10 @@ started on it.
 <p align="center" width="100%">
 <img src="./images/image035.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image35.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image035.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Seat reservation program part 1, creating the seats. In this part of the
 project. I&apos;m going to show you the solution that I came up with for
@@ -2966,9 +2983,10 @@ put them in right to start if you wanted to.
 <p align="center" width="100%">
 <img src="./images/image036.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image36.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image036.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Let&apos;s try to work on the left section and see if we can get that
 working in some semblance of what we need. So what I&apos;m going to do here
@@ -3044,6 +3062,7 @@ we fix that.
 <p align="center" width="100%">
 <img src="./images/image037.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3113,6 +3132,7 @@ take care of the center part of the stage.
 <p align="center" width="100%">
 <img src="./images/image038.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3164,6 +3184,7 @@ script a little bit more.
 <p align="center" width="100%">
 <img src="./images/image039.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3221,6 +3242,7 @@ see what we need to do that.
 <p align="center" width="100%">
 <img src="./images/image040.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3302,6 +3324,7 @@ loop, and we will have this function pretty much done.
 <p align="center" width="100%">
 <img src="./images/image041.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3382,6 +3405,7 @@ the way down to 300, and that&apos;s working perfectly.
 <p align="center" width="100%">
 <img src="./images/image042.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3460,6 +3484,7 @@ that those seats have been previously reserved.
 <p align="center" width="100%">
 <img src="./images/image043.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3522,6 +3547,7 @@ So if you can get those two pieces of information in there.
 <p align="center" width="100%">
 <img src="./images/image044.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3573,6 +3599,7 @@ part and get ready for the challenge for the next part.
 <p align="center" width="100%">
 <img src="./images/image045.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3626,6 +3653,7 @@ for solving this problem in the next part of this project.
 <p align="center" width="100%">
 <img src="./images/image046.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3672,6 +3700,7 @@ when you click it. So we&apos;ll do this part in the next lesson.
 <p align="center" width="100%">
 <img src="./images/image047.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3727,6 +3756,7 @@ here.
 <p align="center" width="100%">
 <img src="./images/image048.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -3775,15 +3805,16 @@ things into the array and take them out of the array based on whether or
 not they&apos;re already in the array. Take a look at that and see what you
 can figure out, and then we&apos;ll look at it in the next lesson together.
 
-# 3.15 Getting the Index (3:45) {#getting-the-index-345 .unnumbered}
+# 3.15 Getting the Index (3:45)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 49.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image049.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image49.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image049.png){width="4.0in" height="2.2538462379702535in"} -->
 
 And if we go over and actually look this up on the Mozilla developer
 network. You can scroll down here and get some examples of how it works.
@@ -3823,15 +3854,16 @@ like? How do we write that much? Just get the if and they have statement
 in there, and see what that looks like. And we&apos;ll look at the answer to
 that in the next lesson.
 
-# 3.16 Adding the If Statement (3:22) {#adding-the-if-statement-322 .unnumbered}
+# 3.16 Adding the If Statement (3:22)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 50.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image050.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-<!-- ![](./3-9-images/media/image50.png){width="4.0in" height="2.2538462379702535in"} -->
+<!-- (./images/image050.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Your challenge was to write the if statement that we would need to use
 to determine if an element that&apos;s clicked on is in the array or not.
@@ -3865,17 +3897,16 @@ through this page to see how you might use the splice method to take
 that element out of the array. Let&apos;s see if you can do that on your
 own. And then in the next lesson we&apos;ll look at my solution for that.
 
-# 3.17 The Finished Function (6:08) {#the-finished-function-608 .unnumbered}
+# 3.17 The Finished Function (6:08)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 51.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image051.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-
-![](./3-9-images/media/image51.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- (./images/image051.png){width="4.0in" height="2.2538462379702535in"} -->
 
 How did you do the micro challenge? Were you able to complete it?
 Hopefully you got something like this. We&apos;re going to use the splice
@@ -3940,17 +3971,16 @@ seats that had been previously reserved. Okay, great.
 
 ## 3.17.Seat-Reservation-Part3.pdf
 
-# 3.18 Adding the Form HTML (4:08) {#adding-the-form-html-408 .unnumbered}
+# 3.18 Adding the Form HTML (4:08)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
-
-![](./3-9-images/media/image52.png){width="4.0in"
-height="2.2538462379702535in"}
+<!-- (./images/image052.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Seat reservation program. Part 4, The reservation form. In this part,
 we&apos;ll be adding a form that users can fill out to reserve their seats.
@@ -4010,6 +4040,7 @@ next lesson to see if you came up with the same thing I came up with.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4094,6 +4125,7 @@ your own.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4159,6 +4191,7 @@ next lesson.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4218,6 +4251,7 @@ be doing a lot more of that in this part.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4285,6 +4319,7 @@ that, and then we&apos;ll look at the solution in the next lesson.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4332,6 +4367,7 @@ can solve that one
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4390,6 +4426,7 @@ get better and better over time.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4458,6 +4495,7 @@ in the next lesson.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4506,6 +4544,7 @@ and that&apos;s where the new bit comes in.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4573,6 +4612,7 @@ when I submit the form. So that&apos;s great.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4666,6 +4706,7 @@ while they are reserving their seats. Great job.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4771,9 +4812,9 @@ you wanted to.
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/to72A/pdf-of-presentation
 
-# Week 4 -- Working with Data Asynchronously in JS {#week-4-working-with-data-asynchronously-in-js .unnumbered}
+# Week 4 -- Working with Data Asynchronously in JS
 
-# Learning Objectives {#learning-objectives-3 .unnumbered}
+# Learning Objectives
 
 -   Send data to a remote PHP file on a server and have it process and
     return data.
@@ -4801,7 +4842,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/to72A/pdf
 
 <h1 id="ch4">4.00 Introduction</h1>
 
-# ![](./3-9-images/media/image64.png){width="4.0in" height="2.2538462379702535in"} {#section .unnumbered}
+<!-- (./images/image064.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Hello and welcome to our fourth module for our fourth course on
 JavaScript. This is our final module. In this module, we&apos;re going to
@@ -4819,6 +4860,7 @@ forward to doing this material with you. So let&apos;s get started.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4911,6 +4953,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/8lSuh/sta
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -4976,6 +5019,7 @@ look at that function next.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5041,6 +5085,7 @@ synchronous.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5115,6 +5160,7 @@ cool.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5187,6 +5233,7 @@ remote data. We&apos;ll do that in the next video.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5247,6 +5294,7 @@ of making that a little bit simpler in the next example.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5321,6 +5369,7 @@ that content, we&apos;re putting it on the page pretty straightforward.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5396,6 +5445,7 @@ function here.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5454,6 +5504,7 @@ JSON is the most popular format out there these days. Insert.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5526,6 +5577,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/VASJ3/pdf
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5609,6 +5661,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/efp7d/sta
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5680,6 +5733,7 @@ it&apos;s done, and then it&apos;ll enter back into the stack.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5769,6 +5823,7 @@ interesting.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5826,6 +5881,7 @@ hopefully these examples have really helped.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5905,6 +5961,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/gnlU1/sta
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -5982,6 +6039,7 @@ We&apos;ll do that in the next video.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6085,6 +6143,7 @@ interesting to see how you can do that thing.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6174,6 +6233,7 @@ to this and we&apos;ll do that in the next video.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6256,6 +6316,7 @@ awesome.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6367,6 +6428,7 @@ they send data function here.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6474,6 +6536,7 @@ field, so that&apos;s working perfectly.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6558,6 +6621,7 @@ bit for that. And we&apos;ll do that in the next video.
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 
@@ -6655,6 +6719,7 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/4kqEh/pdf
 <p align="center" width="100%">
 <img src="./images/image0xx.png"
   style="width:40%;"
+  title=""
   alt="." />
 </p>
 <p>Congratulations. You&apos;ve made it to the end of our fourth course, and to
@@ -6689,5 +6754,3 @@ meet your goals.</p>
 
 </body>
 </html>
-
-
