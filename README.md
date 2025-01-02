@@ -6585,7 +6585,7 @@ going to handle that. Else, oh my goodness. Else, what do we want to do
 here? I want to do this again. I just want to empty out. I want to set
 that back to message.
 
-Probably could have put this outside the if else statement, so I only
+<p>Probably could have put this outside the if else statement, so I only
 have to run it once. I want to do that. Then you want to clear out the
 fields. Previously, in our previous example, I wrote a fancy little loop
 to clear out the fields, but here we only have three fields. I&apos;m just
@@ -6593,34 +6593,34 @@ going to do it in a lame way, and get each one of them by ID, and just
 set the value to empty, since there&apos;s only three of them. It&apos;s not
 that big a deal. You could do a loop here if you wanted to and loop
 through them and do all that fancy stuff if you wanted to but, this
-seems to be fairly good.
+seems to be fairly good.</p>
 
-Now what happens is that, when we run some data, assuming everything
+<p>Now what happens is that, when we run some data, assuming everything
 works well, we&apos;re going to use the display message function to display
 the success message. This display message function, it says it&apos;s taking
 a field here, but sometimes it&apos;s field, and sometimes it&apos;s the word
 success. If it&apos;s a field, it&apos;s going to do the error, because there
 must be an error in the form. If it&apos;s success, then it&apos;s going to give
-us the success message. Hopefully that&apos;ll work. Let&apos;s give it a try.
+us the success message. Hopefully that&apos;ll work. Let&apos;s give it a try.</p>
 
-Come over here, and I&apos;m going to refresh my page, and if I just click
+<p>Come over here, and I&apos;m going to refresh my page, and if I just click
 &quot;Send it to me&quot;, I get my error message, tells me I need to fix my
 form, puts my cursor in there, I&apos;m going to do Joe at somewhere.com,
 then Hello from the llamas. If I click &quot;Send it to me&quot;, I get the
 little spinny thing for at least two seconds, then once that&apos;s done, I
 get the green message that says it&apos;s successfully sent, and when
 that&apos;s done, it fades it out, and I&apos;m all the way back to where I
-started, and that&apos;s perfect.
+started, and that&apos;s perfect.</p>
 
-Also, if I click Inspect and look in my Console, you&apos;ll notice I have
+<p>Also, if I click Inspect and look in my Console, you&apos;ll notice I have
 the word success here. That&apos;s because down here in my son data, I&apos;m
 console logging out that data result there. That&apos;s where that success
 is coming from. It&apos;s showing up because the email processor is
 returning. Not only would it actually send the email, but it&apos;s actually
 returning this result, success here. It&apos;s not actually sending the
-email because that&apos;s commented out. There we have it.
+email because that&apos;s commented out. There we have it.</p>
 
-We have a email form that is a nice design, it&apos;s got a nice interface
+<p>We have a email form that is a nice design, it&apos;s got a nice interface
 and nice interface elements, it&apos;s got some usability features to it,
 it&apos;s something that you could use on your own websites if you wanted
 to, which is pretty fun. One thing I should mention is that if you&apos;re
@@ -6628,9 +6628,9 @@ putting it on your own server, if you&apos;ve got cheap shared hosting on a
 server somewhere, then on this email form, when you put in your email
 here, suppose your website is myawesomesite.com, generally, the cheap
 shared hosting will only send the email addresses, will only allow PHP
-to send to email addresses within that domain.
+to send to email addresses within that domain.</p>
 
-You would have to have Bob at myawesomewebsite.com as the email address.
+<p>You would have to have Bob at myawesomewebsite.com as the email address.
 You&apos;d have to be at awesomewebsite.com, whatever your email address is
 at that website. Probably, you wouldn&apos;t be able to send this form to,
 say your Gmail account or some other email account, just because these
@@ -6638,10 +6638,11 @@ companies that provide hosting have their servers locked down in such a
 way that it won&apos;t allow it to do that in case somebody hacks into the
 server. We don&apos;t want these servers sending out tons of spam to
 everybody all over the world. There&apos;s a lot of bad actors that are
-trying to take over servers and do that thing. This is a lot of fun.
-This is a really great project. I hope you&apos;ve had fun making all of
-these projects with me throughout all of these courses and I hope you
-find them useful. I&apos;ve really enjoyed putting them together.
+trying to take over servers and do that thing.</p>
+
+<p>This is a lot of fun. This is a really great project. I hope you&apos;ve had fun 
+making all of these projects with me throughout all of these courses and I hope you
+find them useful. I&apos;ve really enjoyed putting them together.</p>
 
 -   **4.23.Async-Sending-Data.pdf**
 
@@ -6656,34 +6657,37 @@ https://www.coursera.org/learn/javascript-data-manipulation/supplement/4kqEh/pdf
   style="width:40%;"
   alt="." />
 </p>
-Congratulations. You&apos;ve made it to the end of our fourth course, and to
+<p>Congratulations. You&apos;ve made it to the end of our fourth course, and to
 the end of our four-course specialization on JavaScript. That&apos;s a lot
 of JavaScript and you&apos;ve spent a lot of time on this, and you should be
 really proud of yourself. In the first course, we covered a lot of
 basics and when you started that course, you probably didn&apos;t even know
 that much about JavaScript. But now, if you look at what we&apos;ve done
 over these four courses and what you&apos;ve learned, you&apos;ve come a long
-way.
+way.</p>
 
-In the second course, we got into jQuery and how to create some
+<p>In the second course, we got into jQuery and how to create some
 animations and create some interface elements that we can use on web
 pages, and that was super fun. In the third and fourth courses we got in
 even deeper worked with jQuery plugins, built some JavaScript, little
 web applications, we even got into some asynchronous JavaScript. That&apos;s
 a lot to do in these four courses, and I think you should be really
-proud for being here and for working through all of that material.
+proud for being here and for working through all of that material.</p>
 
-I&apos;ve had a lot of fun putting together that material, and I want to
+<p>I&apos;ve had a lot of fun putting together that material, and I want to
 thank you for sticking with me and working through these four courses.
 I&apos;m sure that if you keep practicing and keep working on it, you&apos;ll
 continue to progress to become the developer that you want to be and to
-meet your goals.
+meet your goals.</p>
 
-<h6>.the end. 1/10/24 3:42pm</h6>
-<h6>.the end. 4/10/24 Mon 2:32am</h6>
-<h6>.the end. 4/26/24 Fri 12:56pm</h6>
-<h6>.the end. 6/21/24 Fri 9:19am</h6>
-<h6>.the end. 8/20/24 Tue 11:34pm</h6>
+<h6>.the end. 1/10/24 3:42pm<br/>
+.the end. 4/10/24 Mon 2:32am<br/>
+.the end. 4/26/24 Fri 12:56pm<br/>
+.the end. 6/21/24 Fri 9:19am<br/>
+.the end. 8/20/24 Tue 11:34pm<br/>
+.the end. 1/1/25 Wed 6:23pm</h6>
 
 </body>
 </html>
+
+
