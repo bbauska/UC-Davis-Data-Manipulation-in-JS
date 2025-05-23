@@ -811,9 +811,9 @@ you can get rid of that and style it any way you like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-04">1.04 Using the Checkboxes Input Types (8:15)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 09. using the checkboxes input types (1.04) (0x) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 25. using the checkboxes input types (1.04) (0x) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image009.png"
+<img src="./images/image025.png"
   style="width:40%;"
   title="1.04 Using the Checkboxes Input Types"
   alt="1.04 Using the Checkboxes Input Types." />
@@ -891,9 +891,9 @@ through without any value at all.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-05">1.05 Using Textarea Elements (6:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 10. using textarea elements (1.05) (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 35. using textarea elements (1.05) (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image010.png"
+<img src="./images/image035.png"
   style="width:40%;"
   title="1.05 Using Textarea Elements"
   alt="1.05 Using Textarea Elements." />
@@ -972,9 +972,9 @@ exist.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-06">1.06 Styling Your Form (4:46)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 11. styling your forms (1.06) (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 46. styling your forms (1.06) (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image011.png"
+<img src="./images/image046.png"
   style="width:40%;"
   title="1.06 Styling Your Forms"
   alt="1.06 Styling Your Forms." />
@@ -1044,9 +1044,9 @@ website or web application.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 Basics of Form Validation (5:36)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 12. basics of form validation: adding a label (1.07) (0x) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 55. basics of form validation: adding a label (1.07) (0x) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image012.png"
+<img src="./images/image055.png"
   style="width:40%;"
   title="1.07 Basics of Form Validation: Adding a Label"
   alt="1.07 Basics of Form Validation: Adding a Label." />
@@ -1126,9 +1126,9 @@ well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-08">1.08 Processing the Form (7:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. processing the form (1.08) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. processing the form (1.08) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image013.png"
+<img src="./images/image063.png"
   style="width:40%;"
   title="1.08 Processing the Form"
   alt="1.08 Processing the Form." />
@@ -1226,9 +1226,9 @@ well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-09">1.09 Backend Validation with PHP (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 14. backend validation with php (1.09) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 81. backend validation with php (1.09) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image014.png"
+<img src="./images/image081.png"
   style="width:40%;"
   title="1.09 Backend Validation with PHP"
   alt="1.09 Backend Validation with PHP." />
@@ -1320,9 +1320,9 @@ expressions without having to write them yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-10">1.10 Plain JavaScript Validation - HTML (10:46)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 15. plain javascript validation - html (1.10) (0x) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 91. plain javascript validation - html (1.10) (0x) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image015.png"
+<img src="./images/image091.png"
   style="width:40%;"
   title="1.10 Plain JavaScipt Validation - HTML"
   alt="1.10 Plain JavaScipt Validation - HTML." />
@@ -1460,9 +1460,9 @@ we&apos;ll look at in the next videos.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-11">1.11 jQuery Form Validation (5:53)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. jquery form validation (1.11) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 97. jquery form validation (1.11) (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image016.png"
+<img src="./images/image097.png"
   style="width:40%;"
   title="1.11 jQuery Form Validation"
   alt="1.11 jQuery Form Validation." />
@@ -1547,9 +1547,9 @@ again, this is kind of an old school method for doing this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-12">1.12 jQuery Validator Plugin -- Part 1 (11:38)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 17. Form Basics (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 99. Form Basics (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image017.png"
+<img src="./images/image099.png"
   style="width:40%;"
   title="Form Basics"
   alt="Form Basics." />
@@ -1683,9 +1683,9 @@ validator plugin, and we can get into a lot more with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-13">1.13 jQuery Validator Plugin -- Part 2 (4:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 18.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 100.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image018.png"
+<img src="./images/image100.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -1831,9 +1831,9 @@ you could put it in an external file if you want to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-15">1.15 Starting the Script (7:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 20.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 105.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image020.png"
+<img src="./images/image105.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -1919,9 +1919,9 @@ now.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-16">1.16 Checking the Phone Number (5:50)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 21.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 107.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image021.png"
+<img src="./images/image107.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -1991,9 +1991,9 @@ lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-17">1.17 Adding Messages (5:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 22.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 108.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image022.png"
+<img src="./images/image108.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2055,9 +2055,9 @@ particular plug in, and we&apos;ll do that in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-18">1.18 Styling Your Form (6:31)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 23.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 109.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image023.png"
+<img src="./images/image109.png"
   style="width:60%;"
   title=""
   alt="." />
@@ -2162,9 +2162,9 @@ different tools that could be handy for a lot of different projects.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-00">2.00 Module Introduction (0:46)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 24.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 111.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image024.png"
+<img src="./images/image111.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2184,9 +2184,9 @@ on this. I think you&apos;re going to get a lot out of it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-01">2.01 Intro to Prototypes & Inheritance (4:41)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 25.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 112.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image025.png"
+<img src="./images/image112.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2254,9 +2254,9 @@ this prototype that every iPhone might have been
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-02">2.02 iPhone Example (4:31)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 26.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 116.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image026.png"
+<img src="./images/image116.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2303,9 +2303,9 @@ this stuff.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-03">2.03 Overriding Inheritance (6:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 27.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 118.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image027.png"
+<img src="./images/image118.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2371,9 +2371,9 @@ object. Hopefully, that makes sense.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-04">2.04 Another Inheritance Example (8:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 120.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image120.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2485,9 +2485,9 @@ properties.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-05">2.05 hasOwnProperty() (3:17)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 122.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image029.png"
+<img src="./images/image122.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2534,9 +2534,9 @@ combination. We&apos;re going to see that in some projects coming up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-06">2.06 Introduction to Arrow Functions (6:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 124.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image030.png"
+<img src="./images/image124.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2623,9 +2623,9 @@ pretty amazing.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-07">2.07 Parameters and Arrow Functions (7:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 125.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image031.png"
+<img src="./images/image125.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2707,9 +2707,9 @@ And sure enough it works fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-08">2.08 Constructor Function Expression (5:03)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 32.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 126.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image032.png"
+<img src="./images/image126.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2776,9 +2776,9 @@ people&apos;s code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-09">2.09 Seat Reservation Program Introduction (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 127.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image033.png"
+<img src="./images/image127.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2895,7 +2895,7 @@ solutions you come up with.
 -   Refactor code for best practices.
 
 <h2 id="ch3-00">3.00 Introduction (0:42)</h2>
-
+<!-- image128.png -->
 <!-- (./images/image034.png){width="4.0in" height="2.2538462379702535in"} -->
 
 Hello and welcome to our third module. In our fourth course on
@@ -2910,9 +2910,9 @@ started on it.
 
 <h2 id="ch3-01">3.01 Introduction to Creating the Seats (4:52)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 129.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image035.png"
+<img src="./images/image129.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -2979,9 +2979,9 @@ put them in right to start if you wanted to.
 
 <h2 id="ch3-02">3.02 The Left Section (6:08)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 36.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 130.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image036.png"
+<img src="./images/image130.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3058,9 +3058,9 @@ we fix that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 The Right Section (5:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 37.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 131.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image037.png"
+<img src="./images/image131.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3128,9 +3128,9 @@ take care of the center part of the stage.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04">3.04 The Middle Section (4:17)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 132.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image038.png"
+<img src="./images/image132.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3180,9 +3180,9 @@ script a little bit more.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 Figuring Out Variables (4:38)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 39.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 133.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image039.png"
+<img src="./images/image133.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3238,9 +3238,9 @@ see what we need to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 Adding Switch Statements (8:12)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 40.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 134.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image040.png"
+<img src="./images/image134.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3320,9 +3320,9 @@ loop, and we will have this function pretty much done.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 Adding the Loop and HTML (8:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 41.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 135.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image041.png"
+<img src="./images/image135.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3401,9 +3401,9 @@ the way down to 300, and that&apos;s working perfectly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-08">3.08 Using an Arrow Function (5:31)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 42.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 136.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image042.png"
+<img src="./images/image136.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3480,9 +3480,9 @@ that those seats have been previously reserved.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-09">3.09 The reservedSeats Object (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 43.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 137.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image043.png"
+<img src="./images/image137.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3543,9 +3543,9 @@ So if you can get those two pieces of information in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-10">3.10 Affecting the DOM (4:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 44.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 138.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image044.png"
+<img src="./images/image138.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3595,9 +3595,9 @@ part and get ready for the challenge for the next part.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-11">3.11 With IIFE Closure (3:54)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 45.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 139.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image045.png"
+<img src="./images/image139.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3649,9 +3649,9 @@ for solving this problem in the next part of this project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-12">3.12 Adding an Array (3:26)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 46.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 140.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image046.png"
+<img src="./images/image140.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3696,9 +3696,9 @@ when you click it. So we&apos;ll do this part in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-13">3.13 Two Pieces Needed (4:51)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 47.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 141.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image047.png"
+<img src="./images/image141.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3752,9 +3752,9 @@ here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-14">3.14 Getting the Seat ID (4:30)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 48.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 142.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image048.png"
+<img src="./images/image142.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3807,9 +3807,9 @@ can figure out, and then we&apos;ll look at it in the next lesson together.
 
 # 3.15 Getting the Index (3:45)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 49.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 143. (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image049.png"
+<img src="./images/image143.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3856,9 +3856,9 @@ that in the next lesson.
 
 # 3.16 Adding the If Statement (3:22)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 50.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 144. Adding the If Statement (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image050.png"
+<img src="./images/image144.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3899,9 +3899,9 @@ own. And then in the next lesson we&apos;ll look at my solution for that.
 
 # 3.17 The Finished Function (6:08)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 51.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 145. The Finished Function (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image051.png"
+<img src="./images/image145.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -3973,9 +3973,9 @@ seats that had been previously reserved. Okay, great.
 
 # 3.18 Adding the Form HTML (4:08)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 146. Adding the Form HTML (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image146.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4036,9 +4036,9 @@ next lesson to see if you came up with the same thing I came up with.
 
 <h2 id="ch3-19">3.19 Open and Close Form Event Handlers (6:47)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 147. Open and Close Form Event Handlers (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image147.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4121,9 +4121,9 @@ your own.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>3.20 manageConfirmForm Function (5:45)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 148. manageConfirmForm Function (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image148.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4187,9 +4187,9 @@ next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-21">3.21 Updating the Else Statement (5:30)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 149.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image149.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4247,9 +4247,9 @@ be doing a lot more of that in this part.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-22">3.22 Fixing the Bugs on the Form (5:50)<M/h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 150.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image150.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4315,9 +4315,9 @@ that, and then we&apos;ll look at the solution in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-23'>3.23 Fixing More Bugs (3:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 151.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image151.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4363,9 +4363,9 @@ can solve that one
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-24">3.24 Additional Condition Statement (5:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 152.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image152.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4422,9 +4422,9 @@ get better and better over time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-25">3.25 Setting Up the Final Steps (6:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 153.  (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image153.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4491,12 +4491,12 @@ in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-26">3.26 Back to the Object (4:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 154. Back to the Object (xx) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image154.png"
   style="width:40%;"
-  title=""
-  alt="." />
+  title="Back to the Object"
+  alt="Back to the Object." />
 </p>
 
 Okay. Again, the Object.keys reservedSeats.length will tell us how many
@@ -4540,9 +4540,9 @@ and that&apos;s where the new bit comes in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-27">3.27 Adding Each Record (6:25)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 155. Adding Each Record (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image155.png"
   style="width:40%;"
   title=""
   alt="." />
@@ -4856,12 +4856,12 @@ forward to doing this material with you. So let&apos;s get started.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-01">4.01 Introduction to Asynchronous JavaScript (6:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ xx.  (0x) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 159. Introduction to Asynchronous JavaScript (0x) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image0xx.png"
+<img src="./images/image159.png"
   style="width:40%;"
-  title=""
-  alt="." />
+  title="Introduction to Asynchronous JavaScript"
+  alt="Introduction to Asynchronous JavaScript." />
 </p>
 
 Asynchronous javascript. Let&apos;s look at a cooking analogy. Suppose
@@ -6540,14 +6540,14 @@ field, so that&apos;s working perfectly.
   alt="." />
 </p>
 
-We are mostly done with our display message function. We&apos;re going to
+<p>We are mostly done with our display message function. We&apos;re going to
 have to adjust it just a little bit in a few minutes to handle our
 success message as well. But we&apos;re mostly done with our display message
 function and now we can work on filling out the sendData function. And
 this function is going to look very similar to what we did in the
-previous exercise.
+previous exercise.</p>
 
-We&apos;ve got to do a little bit more to sort of handle the interface that
+<p>We&apos;ve got to do a little bit more to sort of handle the interface that
 we want to happen and have come up with. But other than that it&apos;s very
 similar to what we&apos;ve done before. First, we&apos;ll show the message by
 setting the class to show message and add the feedback message for which
@@ -6556,18 +6556,18 @@ long it takes for the server to respond, you want the spinner on the
 screen for at least two seconds. It might take longer, depending on if
 you need to wait for the server, but we&apos;ll have it be on the screen for
 two seconds at least. And when the two seconds are up we&apos;ll do an
-asynchronous function to send and get the data.
+asynchronous function to send and get the data.</p>
 
-So let&apos;s start putting this into place here. I&apos;m going to take out
+<p>So let&apos;s start putting this into place here. I&apos;m going to take out
 this comment, I don&apos;t really need that. And then the first thing I&apos;m
 going to do and you&apos;re going to have to type this but I pasted it in
 here. I&apos;m going to go get my element by ID message class name
 show-message. You can actually just copy and paste that from up here,
 it&apos;s the same thing. And then I&apos;m going to set the inner HTML to
 feedback message square bracket 4. Which again up here is our last one
-here, zero, one, two, three, four, preloader, the class loading-dot.
+here, zero, one, two, three, four, preloader, the class loading-dot.</p>
 
-It&apos;s actually a div Inside of a div that creates that animation, go
+<p>It&apos;s actually a div Inside of a div that creates that animation, go
 look at the spinner CSS to see how it actually works if you want to. So
 yeah, so that&apos;s going to be set to feedback 4 and then I&apos;m going to
 run setTimeout which is going to run a function. But now I&apos;m sticking
@@ -6576,9 +6576,9 @@ asynchronous function. I want to wait at least two seconds. I want the
 spinner on the screen for at least two seconds because it kind of looks
 sort of cool and so you can see it for two seconds. That&apos;s quick enough
 that you can see it but not so long that you&apos;re going to be annoyed by
-it. Two seconds goes by pretty quickly.
+it. Two seconds goes by pretty quickly.</p>
 
-All right, great. So now in here we&apos;re going to do our asynchronous
+<p>All right, great. So now in here we&apos;re going to do our asynchronous
 functions for sending our formdata. I&apos;ll close this thing so it&apos;s a
 little easier to read here. But again, formdata is we&apos;re using so this
 is exactly what we did before. contactForm is the actual form that we
@@ -6586,25 +6586,25 @@ have. This was defined up here at the top of the page, contactForm.
 There it is. Document getElementById contactform. So there it is. So
 we&apos;re getting the contact form and again we know by the time we get
 here that it has passed the validation. Because this sendData function
-only runs if there are zero errors in the form. So that&apos;s all good.
+only runs if there are zero errors in the form. So that&apos;s all good.</p>
 
-And then we&apos;re fetching and we&apos;re using our await keyword that we can
+<p>And then we&apos;re fetching and we&apos;re using our await keyword that we can
 use because we put the async there. And we&apos;re doing the same thing we
 did before except now we&apos;re getting emailFormProcessor which is our
 email form processor. We&apos;re sending the POST, we&apos;re sending by POST,
 we&apos;re sending our formdata that we created here. And we&apos;re putting all
 of this back into our fetchPromise that once it has successfully done
-this, then we can go on to the next part.
+this, then we can go on to the next part.</p>
 
-Let&apos;s add that in now, these two pieces. So I&apos;m making a variable
+<p>Let&apos;s add that in now, these two pieces. So I&apos;m making a variable
 data, I&apos;m using my await keyword and fetchPromise that json, and why is
 it json? Well, because again, if you look at our PHP processors here,
 this thing is going to return some json. It&apos;s encoding some data and
 json format and it&apos;s going to either return a key value pair that&apos;s
 result success or result emailfail. One or the other is going to come
-back from this form. Hopefully we&apos;ll get success back.
+back from this form. Hopefully we&apos;ll get success back.</p>
 
-And that&apos;s what we want to check for, next is we want to check to make
+<p>And that&apos;s what we want to check for, next is we want to check to make
 sure that we got success and I&apos;m just console logging out here, data
 result. So that you&apos;ll be able to see it in the console log and we&apos;ll
 leave that here. I&apos;m not going to check it just yet. We need to do a
@@ -6612,8 +6612,7 @@ few more things first, but we&apos;ll check it there. And yeah, so this
 should be getting our formdata and doing everything we need to do. The
 next thing we need to do is show the correct message or a success
 message and we&apos;ll have to modify our display message function a little
-bit for that. And we&apos;ll do that in the next video.
-
+bit for that. And we&apos;ll do that in the next video.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-23">4.23 Updated DisplayMessage() Function (7:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6625,7 +6624,7 @@ bit for that. And we&apos;ll do that in the next video.
   alt="." />
 </p>
 
-We&apos;ve got our send data function almost finished here, we just need to
+<p>We&apos;ve got our send data function almost finished here, we just need to
 finish it up a little bit. All we need here is to set the message right.
 What we&apos;re looking for is for this data.result to be the value of
 success rather than fail. I&apos;m just going to put an if statement in
@@ -6635,9 +6634,9 @@ function, I&apos;m going to pass in success instead of a field name, and
 then I&apos;m going to pass in feedback message 3, which again up here, if
 we go up to our feedback messages, 0123 div class success. &quot;Thanks,
 your thoughts have been sent, and I look forward to reading them,&quot; and
-we close the paragraph in the div.
+we close the paragraph in the div.</p>
 
-That&apos;s what that&apos;s going to be set to here. Up here, if you look at
+<p>That&apos;s what that&apos;s going to be set to here. Up here, if you look at
 our display message thing, it&apos;s expecting a field in here, we&apos;re
 passing in instead the word success. Down here this is where we&apos;re
 actually processing this when we get down here. What I want to do down
@@ -6647,7 +6646,7 @@ is not equal to success. If it&apos;s not that, then I want to do this stuff
 here like that. If it&apos;s not success, then it must be an error and I&apos;m
 going to handle that. Else, oh my goodness. Else, what do we want to do
 here? I want to do this again. I just want to empty out. I want to set
-that back to message.
+that back to message.</p>
 
 <p>Probably could have put this outside the if else statement, so I only
 have to run it once. I want to do that. Then you want to clear out the
@@ -6708,7 +6707,9 @@ trying to take over servers and do that thing.</p>
 making all of these projects with me throughout all of these courses and I hope you
 find them useful. I&apos;ve really enjoyed putting them together.</p>
 
--   **4.23.Async-Sending-Data.pdf**
+<ul>
+  <li><b>4.23.Async-Sending-Data.pdf</b></li>
+</ul>
 
 https://www.coursera.org/learn/javascript-data-manipulation/supplement/4kqEh/pdf-of-presentation
 
@@ -6750,7 +6751,8 @@ meet your goals.</p>
 .the end. 4/26/24 Fri 12:56pm<br/>
 .the end. 6/21/24 Fri 9:19am<br/>
 .the end. 8/20/24 Tue 11:34pm<br/>
-.the end. 1/1/25 Wed 6:23pm</h6>
+.the end. 1/1/25 Wed 6:23pm<br>
+.the end. 5/22/25 Thu 8:15pm</h6>
 
 </body>
 </html>
